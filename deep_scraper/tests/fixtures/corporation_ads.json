@@ -1,0 +1,2325 @@
+{
+ "metadata": {
+  "total_count": 0,
+  "total_pages": 0,
+  "current_page": 0,
+  "has_next": false,
+  "has_previous": false
+ },
+ "status": true,
+ "errors": [],
+ "data": [
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "9tjmfw0j",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-9tjmfw0j-peugeot-207-automaticpanoramatu5p-1403",
+    "title": "پژو، 207",
+    "subtitle": "1403 | پانوراما اتوماتیک TU5P",
+    "trim": "پانوراما اتوماتیک TU5P",
+    "time": "9 ساعت پیش",
+    "year": "1403",
+    "mileage": "9,000 km",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "سفید / داخل مشکی",
+    "body_color": "سفید",
+    "inside_color": "مشکی",
+    "body_status": "بدون رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "hatchback",
+    "body_type_fa": "هاچبک",
+    "cylinder_fa": "4 سیلندر",
+    "image_count": 3,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/f72cc18b-43cf-424d-8e48-25755d3f3e0e/CarImage_e5becade1e75470184153bdf38096f20_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-06-10T13:13:30.92",
+    "brand": "peugeot",
+    "brand_fa": "پژو"
+   },
+   "specs": {
+    "volume": "1.6 لیتر",
+    "engine": "4 سیلندر TU5P",
+    "acceleration": "12.6 ثانیه",
+    "fuel": "7.4 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": null,
+    "url_review": "/car-reviews/peugeot/207-specs-1167-381-automaticpanoramatu5p"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "negotiable",
+    "price": "0",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/f72cc18b-43cf-424d-8e48-25755d3f3e0e/CarImage_e5becade1e75470184153bdf38096f20_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/f72cc18b-43cf-424d-8e48-25755d3f3e0e/CarImage_e5becade1e75470184153bdf38096f20_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/f72cc18b-43cf-424d-8e48-25755d3f3e0e/CarImage_e5becade1e75470184153bdf38096f20_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/f72cc18b-43cf-424d-8e48-25755d3f3e0e/CarImage_e5becade1e75470184153bdf38096f20_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/f72cc18b-43cf-424d-8e48-25755d3f3e0e/CarImage_2ae14ac5466741f59bb88833412c3af8_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/f72cc18b-43cf-424d-8e48-25755d3f3e0e/CarImage_2ae14ac5466741f59bb88833412c3af8_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/f72cc18b-43cf-424d-8e48-25755d3f3e0e/CarImage_2ae14ac5466741f59bb88833412c3af8_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/f72cc18b-43cf-424d-8e48-25755d3f3e0e/CarImage_2ae14ac5466741f59bb88833412c3af8_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/f72cc18b-43cf-424d-8e48-25755d3f3e0e/CarImage_b72d39a4a0654ae585a9a5f2e4527ef7_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/f72cc18b-43cf-424d-8e48-25755d3f3e0e/CarImage_b72d39a4a0654ae585a9a5f2e4527ef7_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/f72cc18b-43cf-424d-8e48-25755d3f3e0e/CarImage_b72d39a4a0654ae585a9a5f2e4527ef7_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/f72cc18b-43cf-424d-8e48-25755d3f3e0e/CarImage_b72d39a4a0654ae585a9a5f2e4527ef7_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "پژو 207 پانوراما اتوماتیک TU5P فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, پژو, 207, پانوراما اتوماتیک TU5P, 1403,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو پژو 207 پانوراما اتوماتیک TU5P تولید 1403 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-9tjmfw0j-peugeot-207-automaticpanoramatu5p-1403",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "پژو",
+      "url": "/car/peugeot"
+     },
+     {
+      "title": "207",
+      "url": "/car/peugeot-207"
+     },
+     {
+      "title": "پانوراما اتوماتیک TU5P",
+      "url": "/car/peugeot-207-automaticpanoramatu5p"
+     },
+     {
+      "title": "1403",
+      "url": "/car/peugeot-207-automaticpanoramatu5p-y1403"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "kbttuyya",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-kbttuyya-fidelity-elite-7seater-1405",
+    "title": "فیدلیتی، الیت",
+    "subtitle": "1405 | تیپ 2 هفت نفره",
+    "trim": "تیپ 2 هفت نفره",
+    "time": "9 ساعت پیش",
+    "year": "1405",
+    "mileage": "صفر کیلومتر",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "مشکی / داخل مشکی",
+    "body_color": "مشکی",
+    "inside_color": "مشکی",
+    "body_status": "بدون رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "crossover",
+    "body_type_fa": "کراس اور",
+    "cylinder_fa": "4 سیلندر",
+    "image_count": 0,
+    "image": null,
+    "modified_date": "2026-06-29T11:42:58.1",
+    "brand": "fidelity",
+    "brand_fa": "فیدلیتی"
+   },
+   "specs": {
+    "volume": "1.5 لیتر",
+    "engine": "4 سیلندر توربوشارژ (4T15C)",
+    "acceleration": "11.9 ثانیه",
+    "fuel": "8.1 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": "/price/fidelity_elite_7seater",
+    "url_review": "/car-reviews/fidelity/elite-specs-1538-7seater"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "installment",
+    "price": "6,250,000,000",
+    "prepayment": "2,500,000,000",
+    "payment": "375,000,000",
+    "prepayment_primary": "2,500,000,000",
+    "prepayment_secondary": "0",
+    "payment_primary": "375,000,000",
+    "month_number": 1,
+    "installments": 1,
+    "delivery_days": 1
+   },
+   "images": null,
+   "metadata": {
+    "title_tag": "فیدلیتی الیت تیپ 2 هفت نفره فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, فیدلیتی, الیت, تیپ 2 هفت نفره, 1405, فروش اقساطی, bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو فیدلیتی الیت تیپ 2 هفت نفره تولید 1405 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-kbttuyya-fidelity-elite-7seater-1405",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "فیدلیتی",
+      "url": "/car/fidelity"
+     },
+     {
+      "title": "الیت",
+      "url": "/car/fidelity-elite"
+     },
+     {
+      "title": "تیپ 2 هفت نفره",
+      "url": "/car/fidelity-elite-7seater"
+     },
+     {
+      "title": "1405",
+      "url": "/car/fidelity-elite-7seater-y1405"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "oh97divg",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-oh97divg-renault-duster-sefwd-2017",
+    "title": "رنو، داستر",
+    "subtitle": "2017 | SE دیفرانسیل جلو",
+    "trim": "SE دیفرانسیل جلو",
+    "time": "9 ساعت پیش",
+    "year": "2017",
+    "mileage": "196,000 km",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "نقره ای / داخل مشکی",
+    "body_color": "نقره ای",
+    "inside_color": "مشکی",
+    "body_status": "چند لکه رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\r\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\r\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت باسود۴٪\r\n✅ کارشناسى کامل و دقیق قبل از معامله\r\n✅ تسویه نقدى و فورى\r\n✅تحویل فوری \r\n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\r\n✅مشاوره رایگان خرید و فروش\r\n✅محیط مطمئن و حرفه اى نمایشگاه\r\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "crossover",
+    "body_type_fa": "کراس اور",
+    "cylinder_fa": null,
+    "image_count": 2,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a541d66d-4384-47f5-968b-81733cde209d/CarImage_639141820007935166_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-05-12T11:26:40.8",
+    "brand": "renault",
+    "brand_fa": "رنو"
+   },
+   "specs": {
+    "volume": "2 لیتر",
+    "engine": "4 سیلندر",
+    "acceleration": "10.4 ثانیه",
+    "fuel": "8.2 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": null,
+    "url_review": "/car-reviews/renault/duster-specs-1097-436-sefwd"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "lumpsum",
+    "price": "3,300,000,000",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a541d66d-4384-47f5-968b-81733cde209d/CarImage_639141820007935166_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a541d66d-4384-47f5-968b-81733cde209d/CarImage_639141820007935166_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a541d66d-4384-47f5-968b-81733cde209d/CarImage_639141820007935166_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a541d66d-4384-47f5-968b-81733cde209d/CarImage_639141820007935166_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a541d66d-4384-47f5-968b-81733cde209d/CarImage_639141820007935239_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a541d66d-4384-47f5-968b-81733cde209d/CarImage_639141820007935239_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a541d66d-4384-47f5-968b-81733cde209d/CarImage_639141820007935239_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a541d66d-4384-47f5-968b-81733cde209d/CarImage_639141820007935239_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "رنو داستر SE دیفرانسیل جلو فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, رنو, داستر, SE دیفرانسیل جلو, 2017,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو رنو داستر SE دیفرانسیل جلو تولید 2017 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨ خرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥 ✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت باسود۴٪ ✅ کارشناسى کامل و دقیق قبل از معامله ✅ تسویه نقدى و فورى ✅تحویل فوری  ✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود ✅مشاوره رایگان خرید و فروش ✅محیط مطمئن و حرفه اى نمایشگاه 🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-oh97divg-renault-duster-sefwd-2017",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "رنو",
+      "url": "/car/renault"
+     },
+     {
+      "title": "داستر",
+      "url": "/car/renault-duster"
+     },
+     {
+      "title": "SE دیفرانسیل جلو",
+      "url": "/car/renault-duster-sefwd"
+     },
+     {
+      "title": "2017",
+      "url": "/car/renault-duster-sefwd-y2017"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "cqmk96vb",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-cqmk96vb-toyota-wildlander-2.0literawdluxury-2025",
+    "title": "تویوتا، وایلدلندر",
+    "subtitle": "2025 | 2.0 لیتر AWD لاکچری پلاس",
+    "trim": "2.0 لیتر AWD لاکچری پلاس",
+    "time": "9 ساعت پیش",
+    "year": "2025",
+    "mileage": "صفر کیلومتر",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "مشکی / داخل -",
+    "body_color": "مشکی",
+    "inside_color": "-",
+    "body_status": "بدون رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "crossover",
+    "body_type_fa": "کراس اور",
+    "cylinder_fa": "4 سیلندر",
+    "image_count": 0,
+    "image": null,
+    "modified_date": "2026-06-29T11:33:10.89",
+    "brand": "toyota",
+    "brand_fa": "تویوتا"
+   },
+   "specs": {
+    "volume": null,
+    "engine": null,
+    "acceleration": null,
+    "fuel": null,
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": "/price/toyota_wildlander_2.0literawdluxury",
+    "url_review": null
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "lumpsum",
+    "price": "9,425,000,000",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": null,
+   "metadata": {
+    "title_tag": "تویوتا وایلدلندر 2.0 لیتر AWD لاکچری پلاس فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, تویوتا, وایلدلندر, 2.0 لیتر AWD لاکچری پلاس, 2025,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو تویوتا وایلدلندر 2.0 لیتر AWD لاکچری پلاس تولید 2025 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-cqmk96vb-toyota-wildlander-2.0literawdluxury-2025",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "تویوتا",
+      "url": "/car/toyota"
+     },
+     {
+      "title": "وایلدلندر",
+      "url": "/car/toyota-wildlander"
+     },
+     {
+      "title": "2.0 لیتر AWD لاکچری پلاس",
+      "url": "/car/toyota-wildlander-2.0literawdluxury"
+     },
+     {
+      "title": "2025",
+      "url": "/car/toyota-wildlander-2.0literawdluxury-y2025"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "wrtd3m5b",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-wrtd3m5b-tara-automatic-1402",
+    "title": "تارا، اتوماتیک V2",
+    "subtitle": "1402 ",
+    "trim": "اتوماتیک",
+    "time": "9 ساعت پیش",
+    "year": "1402",
+    "mileage": "78,000 km",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "خاکستری / داخل مشکی",
+    "body_color": "خاکستری",
+    "inside_color": "مشکی",
+    "body_status": "بدون رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "passenger_car",
+    "body_type_fa": "سدان",
+    "cylinder_fa": null,
+    "image_count": 2,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138094_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-05-25T18:35:12.11",
+    "brand": "tara",
+    "brand_fa": "تارا"
+   },
+   "specs": {
+    "volume": "1.6 لیتر",
+    "engine": "4 سیلندر TU5 پلاس",
+    "acceleration": "13 ثانیه",
+    "fuel": "7.3 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": null,
+    "url_review": "/car-reviews/tara/automatic-specs-1393"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "lumpsum",
+    "price": "2,050,000,000",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138094_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138094_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138094_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138094_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138130_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138130_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138130_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138130_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "تارا اتوماتیک V2 فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, تارا, اتوماتیک V2, 1402,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو تارا اتوماتیک V2 تولید 1402 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-wrtd3m5b-tara-automatic-1402",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "تارا",
+      "url": "/car/tara"
+     },
+     {
+      "title": "اتوماتیک V2",
+      "url": "/car/tara-automatic"
+     },
+     {
+      "title": "1402",
+      "url": "/car/tara-automatic-y1402"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "iyeepn4r",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-iyeepn4r-fownix-tiggo8promax-excellent-1402",
+    "title": "فونیکس، تیگو 8 پرو مکس (F8 PRO MAX)",
+    "subtitle": "1402 | اکسلنت",
+    "trim": "اکسلنت",
+    "time": "14 ساعت پیش",
+    "year": "1402",
+    "mileage": "50,000 km",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "مشکی / داخل مارون",
+    "body_color": "مشکی",
+    "inside_color": "مارون",
+    "body_status": "بدون رنگ",
+    "description": null,
+    "authenticated": false,
+    "body_type": "crossover",
+    "body_type_fa": "کراس اور",
+    "cylinder_fa": "4 سیلندر",
+    "image_count": 3,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/8bb3901a-d069-4ca7-ae98-adf5712f3546/CarImage_639032346207860812_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-04-12T09:19:06.68",
+    "brand": "fownix",
+    "brand_fa": "فونیکس"
+   },
+   "specs": {
+    "volume": "2.0 لیتر",
+    "engine": "4 سیلندر توربوشارژ (4J20)",
+    "acceleration": "8.1 ثانیه",
+    "fuel": "7.9 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": null,
+    "url_review": "/car-reviews/fownix/tiggo8promax-specs-1430-excellent"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "negotiable",
+    "price": "0",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/8bb3901a-d069-4ca7-ae98-adf5712f3546/CarImage_639032346207860812_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/8bb3901a-d069-4ca7-ae98-adf5712f3546/CarImage_639032346207860812_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/8bb3901a-d069-4ca7-ae98-adf5712f3546/CarImage_639032346207860812_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/8bb3901a-d069-4ca7-ae98-adf5712f3546/CarImage_639032346207860812_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/8bb3901a-d069-4ca7-ae98-adf5712f3546/CarImage_639032346207860765_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/8bb3901a-d069-4ca7-ae98-adf5712f3546/CarImage_639032346207860765_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/8bb3901a-d069-4ca7-ae98-adf5712f3546/CarImage_639032346207860765_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/8bb3901a-d069-4ca7-ae98-adf5712f3546/CarImage_639032346207860765_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/8bb3901a-d069-4ca7-ae98-adf5712f3546/CarImage_639032346207860822_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/8bb3901a-d069-4ca7-ae98-adf5712f3546/CarImage_639032346207860822_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/8bb3901a-d069-4ca7-ae98-adf5712f3546/CarImage_639032346207860822_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/8bb3901a-d069-4ca7-ae98-adf5712f3546/CarImage_639032346207860822_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "فونیکس تیگو 8 پرو مکس (F8 PRO MAX) اکسلنت فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, فونیکس, تیگو 8 پرو مکس (F8 PRO MAX), اکسلنت, 1402,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو فونیکس تیگو 8 پرو مکس (F8 PRO MAX) اکسلنت تولید 1402 در شهر کرج، ",
+    "canonical": "https://bama.ir/car/detail-iyeepn4r-fownix-tiggo8promax-excellent-1402",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "فونیکس",
+      "url": "/car/fownix"
+     },
+     {
+      "title": "تیگو 8 پرو مکس (F8 PRO MAX)",
+      "url": "/car/fownix-tiggo8promax"
+     },
+     {
+      "title": "اکسلنت",
+      "url": "/car/fownix-tiggo8promax-excellent"
+     },
+     {
+      "title": "1402",
+      "url": "/car/fownix-tiggo8promax-excellent-y1402"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "vkxfvrky",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-vkxfvrky-besturn-b30-at-1396",
+    "title": "بسترن، B30",
+    "subtitle": "1396 | اتوماتیک",
+    "trim": "اتوماتیک",
+    "time": "14 ساعت پیش",
+    "year": "1396",
+    "mileage": "200,000 km",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "مشکی / داخل مشکی",
+    "body_color": "مشکی",
+    "inside_color": "مشکی",
+    "body_status": "بدون رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "passenger_car",
+    "body_type_fa": "سدان",
+    "cylinder_fa": "4 سیلندر",
+    "image_count": 2,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/cd6bf3e9-afee-416a-a3b0-fecb753b67a1/CarImage_f17b6c1316844de28777fc99983bd54b_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-07-11T17:23:02.9",
+    "brand": "besturn",
+    "brand_fa": "بسترن"
+   },
+   "specs": {
+    "volume": "1.6 لیتر",
+    "engine": "4 سیلندر",
+    "acceleration": "12.6 ثانیه",
+    "fuel": "6.7 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": null,
+    "url_review": "/car-reviews/besturn/b30-specs-967-at"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "negotiable",
+    "price": "0",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/cd6bf3e9-afee-416a-a3b0-fecb753b67a1/CarImage_f17b6c1316844de28777fc99983bd54b_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/cd6bf3e9-afee-416a-a3b0-fecb753b67a1/CarImage_f17b6c1316844de28777fc99983bd54b_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/cd6bf3e9-afee-416a-a3b0-fecb753b67a1/CarImage_f17b6c1316844de28777fc99983bd54b_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/cd6bf3e9-afee-416a-a3b0-fecb753b67a1/CarImage_f17b6c1316844de28777fc99983bd54b_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/cd6bf3e9-afee-416a-a3b0-fecb753b67a1/CarImage_42795e1de3cf4ad3af2817d2a9a7297a_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/cd6bf3e9-afee-416a-a3b0-fecb753b67a1/CarImage_42795e1de3cf4ad3af2817d2a9a7297a_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/cd6bf3e9-afee-416a-a3b0-fecb753b67a1/CarImage_42795e1de3cf4ad3af2817d2a9a7297a_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/cd6bf3e9-afee-416a-a3b0-fecb753b67a1/CarImage_42795e1de3cf4ad3af2817d2a9a7297a_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "بسترن B30 اتوماتیک فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, بسترن, B30, اتوماتیک, 1396,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو بسترن B30 اتوماتیک تولید 1396 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-vkxfvrky-besturn-b30-at-1396",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "بسترن",
+      "url": "/car/besturn"
+     },
+     {
+      "title": "B30",
+      "url": "/car/besturn-b30"
+     },
+     {
+      "title": "اتوماتیک",
+      "url": "/car/besturn-b30-at"
+     },
+     {
+      "title": "1396",
+      "url": "/car/besturn-b30-at-y1396"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "1azmew9p",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-1azmew9p-lucano-l7-1.6literturbo-1405",
+    "title": "لوکانو، L7",
+    "subtitle": "1405 | 1.6 لیتر توربو",
+    "trim": "1.6 لیتر توربو",
+    "time": "14 ساعت پیش",
+    "year": "1405",
+    "mileage": "صفر کیلومتر",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "سفید / داخل مشکی",
+    "body_color": "سفید",
+    "inside_color": "مشکی",
+    "body_status": "بدون رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "crossover",
+    "body_type_fa": "کراس اور",
+    "cylinder_fa": "4 سیلندر",
+    "image_count": 3,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_8f314bfe4bcd47ac9dc07b4061d6467e_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-07-16T12:53:10.26",
+    "brand": "lucano",
+    "brand_fa": "لوکانو"
+   },
+   "specs": {
+    "volume": "1.6 لیتر",
+    "engine": "4 سیلندر توربوشارژ (4J16)",
+    "acceleration": "8 ثانیه",
+    "fuel": "7.4 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": "/price/lucano_l7_1.6literturbo",
+    "url_review": "/car-reviews/lucano/l7-specs-1539-1.6literturbo"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "negotiable",
+    "price": "0",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_8f314bfe4bcd47ac9dc07b4061d6467e_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_8f314bfe4bcd47ac9dc07b4061d6467e_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_8f314bfe4bcd47ac9dc07b4061d6467e_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_8f314bfe4bcd47ac9dc07b4061d6467e_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_5164a615b4d441b69eed20732ee86b2f_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_5164a615b4d441b69eed20732ee86b2f_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_5164a615b4d441b69eed20732ee86b2f_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_5164a615b4d441b69eed20732ee86b2f_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_c23c283dc79049d38c2a039d6d6276f7_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_c23c283dc79049d38c2a039d6d6276f7_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_c23c283dc79049d38c2a039d6d6276f7_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_c23c283dc79049d38c2a039d6d6276f7_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "لوکانو L7 1.6 لیتر توربو فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, لوکانو, L7, 1.6 لیتر توربو, 1405,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو لوکانو L7 1.6 لیتر توربو تولید 1405 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-1azmew9p-lucano-l7-1.6literturbo-1405",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "لوکانو",
+      "url": "/car/lucano"
+     },
+     {
+      "title": "L7",
+      "url": "/car/lucano-l7"
+     },
+     {
+      "title": "1.6 لیتر توربو",
+      "url": "/car/lucano-l7-1.6literturbo"
+     },
+     {
+      "title": "1405",
+      "url": "/car/lucano-l7-1.6literturbo-y1405"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "vpzo3htb",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-vpzo3htb-nissan-xtrail-2016",
+    "title": "نیسان، ایکس تریل",
+    "subtitle": "2016 ",
+    "trim": "اتوماتیک",
+    "time": "14 ساعت پیش",
+    "year": "2016",
+    "mileage": "197,000 km",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "سفید / داخل مشکی",
+    "body_color": "سفید",
+    "inside_color": "مشکی",
+    "body_status": "بدون رنگ",
+    "description": "فوق العاده تمیز\nبدنه سرامیک",
+    "authenticated": false,
+    "body_type": "crossover",
+    "body_type_fa": "کراس اور",
+    "cylinder_fa": "4 سیلندر",
+    "image_count": 3,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/0090df1c-92f2-4f59-bf04-d93e380eb413/CarImage_639110064985344297_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-04-05T17:21:38.55",
+    "brand": "nissan",
+    "brand_fa": "نیسان"
+   },
+   "specs": {
+    "volume": "2.5 لیتر",
+    "engine": "4 سیلندر",
+    "acceleration": "9.8 ثانیه",
+    "fuel": "8.3 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": null,
+    "url_review": "/car-reviews/nissan/xtrail-specs-1083"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "negotiable",
+    "price": "0",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/0090df1c-92f2-4f59-bf04-d93e380eb413/CarImage_639110064985344297_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/0090df1c-92f2-4f59-bf04-d93e380eb413/CarImage_639110064985344297_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/0090df1c-92f2-4f59-bf04-d93e380eb413/CarImage_639110064985344297_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/0090df1c-92f2-4f59-bf04-d93e380eb413/CarImage_639110064985344297_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/0090df1c-92f2-4f59-bf04-d93e380eb413/CarImage_639110064985344359_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/0090df1c-92f2-4f59-bf04-d93e380eb413/CarImage_639110064985344359_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/0090df1c-92f2-4f59-bf04-d93e380eb413/CarImage_639110064985344359_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/0090df1c-92f2-4f59-bf04-d93e380eb413/CarImage_639110064985344359_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/0090df1c-92f2-4f59-bf04-d93e380eb413/CarImage_639110064985344370_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/0090df1c-92f2-4f59-bf04-d93e380eb413/CarImage_639110064985344370_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/0090df1c-92f2-4f59-bf04-d93e380eb413/CarImage_639110064985344370_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/0090df1c-92f2-4f59-bf04-d93e380eb413/CarImage_639110064985344370_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "نیسان ایکس تریل فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, نیسان, ایکس تریل, 2016,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو نیسان ایکس تریل تولید 2016 در شهر کرج، فوق العاده تمیز\nبدنه سرامیک",
+    "canonical": "https://bama.ir/car/detail-vpzo3htb-nissan-xtrail-2016",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "نیسان",
+      "url": "/car/nissan"
+     },
+     {
+      "title": "ایکس تریل",
+      "url": "/car/nissan-xtrail"
+     },
+     {
+      "title": "2016",
+      "url": "/car/nissan-xtrail-y2016"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "c7zi8w9y",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-c7zi8w9y-mercedesbenz-cclass-c200-2013",
+    "title": "بنز، کلاس C",
+    "subtitle": "2013 | C200",
+    "trim": "C200",
+    "time": "14 ساعت پیش",
+    "year": "2013",
+    "mileage": "100,000 km",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "سفید / داخل مشکی",
+    "body_color": "سفید",
+    "inside_color": "مشکی",
+    "body_status": "بدون رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "passenger_car",
+    "body_type_fa": "سدان",
+    "cylinder_fa": "4 سیلندر",
+    "image_count": 3,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a8cfda71-316d-4cd2-b335-70535c5fe0d1/CarImage_639159326906439552_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-06-01T17:44:50.66",
+    "brand": "mercedesbenz",
+    "brand_fa": "بنز"
+   },
+   "specs": {
+    "volume": "1.8 لیتر",
+    "engine": "4 سیلندر توربوشارژ",
+    "acceleration": "7.8 ثانیه",
+    "fuel": "6.9 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": null,
+    "url_review": "/car-reviews/mercedesbenz/cclass-specs-1068-336-c200"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "negotiable",
+    "price": "0",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a8cfda71-316d-4cd2-b335-70535c5fe0d1/CarImage_639159326906439552_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a8cfda71-316d-4cd2-b335-70535c5fe0d1/CarImage_639159326906439552_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a8cfda71-316d-4cd2-b335-70535c5fe0d1/CarImage_639159326906439552_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a8cfda71-316d-4cd2-b335-70535c5fe0d1/CarImage_639159326906439552_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a8cfda71-316d-4cd2-b335-70535c5fe0d1/CarImage_639159326906439627_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a8cfda71-316d-4cd2-b335-70535c5fe0d1/CarImage_639159326906439627_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a8cfda71-316d-4cd2-b335-70535c5fe0d1/CarImage_639159326906439627_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a8cfda71-316d-4cd2-b335-70535c5fe0d1/CarImage_639159326906439627_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a8cfda71-316d-4cd2-b335-70535c5fe0d1/CarImage_639159326906439646_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a8cfda71-316d-4cd2-b335-70535c5fe0d1/CarImage_639159326906439646_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a8cfda71-316d-4cd2-b335-70535c5fe0d1/CarImage_639159326906439646_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/a8cfda71-316d-4cd2-b335-70535c5fe0d1/CarImage_639159326906439646_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "بنز کلاس C C200 فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, بنز, کلاس C, C200, 2013,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو بنز کلاس C C200 تولید 2013 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-c7zi8w9y-mercedesbenz-cclass-c200-2013",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "بنز",
+      "url": "/car/mercedesbenz"
+     },
+     {
+      "title": "کلاس C",
+      "url": "/car/mercedesbenz-cclass"
+     },
+     {
+      "title": "C200",
+      "url": "/car/mercedesbenz-cclass-c200"
+     },
+     {
+      "title": "2013",
+      "url": "/car/mercedesbenz-cclass-c200-y2013"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "g0how9ll",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-g0how9ll-kia-sorento-6cylinder-2012",
+    "title": "کیا، سورنتو",
+    "subtitle": "2012 | 6 سیلندر",
+    "trim": "6 سیلندر",
+    "time": "14 ساعت پیش",
+    "year": "2012",
+    "mileage": "190,000 km",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "سفید / داخل کرم",
+    "body_color": "سفید",
+    "inside_color": "کرم",
+    "body_status": "بدون رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت باسود۴٪\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "crossover",
+    "body_type_fa": "کراس اور",
+    "cylinder_fa": null,
+    "image_count": 3,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/75bea80e-612c-41f2-80a2-70ea68234090/CarImage_639135182530680649_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-05-04T19:04:13.08",
+    "brand": "kia",
+    "brand_fa": "کیا"
+   },
+   "specs": {
+    "volume": "3.5 لیتر",
+    "engine": "6 سیلندر",
+    "acceleration": "8.5 ثانیه",
+    "fuel": "10.3 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": null,
+    "url_review": "/car-reviews/kia/sorento-specs-1050-6cylinder"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "negotiable",
+    "price": "0",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/75bea80e-612c-41f2-80a2-70ea68234090/CarImage_639135182530680649_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/75bea80e-612c-41f2-80a2-70ea68234090/CarImage_639135182530680649_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/75bea80e-612c-41f2-80a2-70ea68234090/CarImage_639135182530680649_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/75bea80e-612c-41f2-80a2-70ea68234090/CarImage_639135182530680649_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/75bea80e-612c-41f2-80a2-70ea68234090/CarImage_639135182530680690_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/75bea80e-612c-41f2-80a2-70ea68234090/CarImage_639135182530680690_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/75bea80e-612c-41f2-80a2-70ea68234090/CarImage_639135182530680690_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/75bea80e-612c-41f2-80a2-70ea68234090/CarImage_639135182530680690_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/75bea80e-612c-41f2-80a2-70ea68234090/CarImage_639135182530680728_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/75bea80e-612c-41f2-80a2-70ea68234090/CarImage_639135182530680728_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/75bea80e-612c-41f2-80a2-70ea68234090/CarImage_639135182530680728_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/75bea80e-612c-41f2-80a2-70ea68234090/CarImage_639135182530680728_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "کیا سورنتو 6 سیلندر فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, کیا, سورنتو, 6 سیلندر, 2012,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو کیا سورنتو 6 سیلندر تولید 2012 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت باسود۴٪\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-g0how9ll-kia-sorento-6cylinder-2012",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "کیا",
+      "url": "/car/kia"
+     },
+     {
+      "title": "سورنتو",
+      "url": "/car/kia-sorento"
+     },
+     {
+      "title": "6 سیلندر",
+      "url": "/car/kia-sorento-6cylinder"
+     },
+     {
+      "title": "2012",
+      "url": "/car/kia-sorento-6cylinder-y2012"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "pclqgfcp",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-pclqgfcp-toyota-prado4doors-4cylinder-2007",
+    "title": "تویوتا، پرادو  چهار در",
+    "subtitle": "2007 | 4 سیلندر",
+    "trim": "4 سیلندر",
+    "time": "14 ساعت پیش",
+    "year": "2007",
+    "mileage": "243,000 km",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "مشکی / داخل مشکی",
+    "body_color": "مشکی",
+    "inside_color": "مشکی",
+    "body_status": "بدون رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "suv",
+    "body_type_fa": "شاسی بلند‌",
+    "cylinder_fa": "4 سیلندر",
+    "image_count": 2,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/70b88beb-1ca2-457f-9153-ef2a95cc89c0/CarImage_639159076956370212_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-06-01T10:48:15.66",
+    "brand": "toyota",
+    "brand_fa": "تویوتا"
+   },
+   "specs": {
+    "volume": null,
+    "engine": null,
+    "acceleration": null,
+    "fuel": null,
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": null,
+    "url_review": null
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "negotiable",
+    "price": "0",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/70b88beb-1ca2-457f-9153-ef2a95cc89c0/CarImage_639159076956370212_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/70b88beb-1ca2-457f-9153-ef2a95cc89c0/CarImage_639159076956370212_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/70b88beb-1ca2-457f-9153-ef2a95cc89c0/CarImage_639159076956370212_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/70b88beb-1ca2-457f-9153-ef2a95cc89c0/CarImage_639159076956370212_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/70b88beb-1ca2-457f-9153-ef2a95cc89c0/CarImage_639159076956370256_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/70b88beb-1ca2-457f-9153-ef2a95cc89c0/CarImage_639159076956370256_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/70b88beb-1ca2-457f-9153-ef2a95cc89c0/CarImage_639159076956370256_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/70b88beb-1ca2-457f-9153-ef2a95cc89c0/CarImage_639159076956370256_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "تویوتا پرادو  چهار در 4 سیلندر فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, تویوتا, پرادو  چهار در, 4 سیلندر, 2007,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو تویوتا پرادو  چهار در 4 سیلندر تولید 2007 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-pclqgfcp-toyota-prado4doors-4cylinder-2007",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "تویوتا",
+      "url": "/car/toyota"
+     },
+     {
+      "title": "پرادو  چهار در",
+      "url": "/car/toyota-prado4doors"
+     },
+     {
+      "title": "4 سیلندر",
+      "url": "/car/toyota-prado4doors-4cylinder"
+     },
+     {
+      "title": "2007",
+      "url": "/car/toyota-prado4doors-4cylinder-y2007"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "x783rru5",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-x783rru5-lucano-l7-1.6literturbo-1405",
+    "title": "لوکانو، L7",
+    "subtitle": "1405 | 1.6 لیتر توربو",
+    "trim": "1.6 لیتر توربو",
+    "time": "14 ساعت پیش",
+    "year": "1405",
+    "mileage": "صفر کیلومتر",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "سفید / داخل مشکی",
+    "body_color": "سفید",
+    "inside_color": "مشکی",
+    "body_status": "بدون رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "crossover",
+    "body_type_fa": "کراس اور",
+    "cylinder_fa": "4 سیلندر",
+    "image_count": 2,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_639199703584319693_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-07-18T11:19:18.56",
+    "brand": "lucano",
+    "brand_fa": "لوکانو"
+   },
+   "specs": {
+    "volume": "1.6 لیتر",
+    "engine": "4 سیلندر توربوشارژ (4J16)",
+    "acceleration": "8 ثانیه",
+    "fuel": "7.4 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": "/price/lucano_l7_1.6literturbo",
+    "url_review": "/car-reviews/lucano/l7-specs-1539-1.6literturbo"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "negotiable",
+    "price": "0",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_639199703584319693_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_639199703584319693_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_639199703584319693_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_639199703584319693_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_639199703584319768_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_639199703584319768_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_639199703584319768_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/5dfd9ccd-5cf2-48ea-84c6-e6a9c476354a/CarImage_639199703584319768_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "لوکانو L7 1.6 لیتر توربو فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, لوکانو, L7, 1.6 لیتر توربو, 1405,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو لوکانو L7 1.6 لیتر توربو تولید 1405 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-x783rru5-lucano-l7-1.6literturbo-1405",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "لوکانو",
+      "url": "/car/lucano"
+     },
+     {
+      "title": "L7",
+      "url": "/car/lucano-l7"
+     },
+     {
+      "title": "1.6 لیتر توربو",
+      "url": "/car/lucano-l7-1.6literturbo"
+     },
+     {
+      "title": "1405",
+      "url": "/car/lucano-l7-1.6literturbo-y1405"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "ivxtawor",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-ivxtawor-kmc-t9-2literturbo-1403",
+    "title": "کی ام سی، T9",
+    "subtitle": "1403 | 2 لیتر توربو",
+    "trim": "2 لیتر توربو",
+    "time": "14 ساعت پیش",
+    "year": "1403",
+    "mileage": "20,000 km",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "خاکستری / داخل مشکی",
+    "body_color": "خاکستری",
+    "inside_color": "مشکی",
+    "body_status": "بدون رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "pickup",
+    "body_type_fa": "وانت",
+    "cylinder_fa": "4 سیلندر",
+    "image_count": 3,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/64edcb93-7ef6-4ed1-90b6-eb41be205125/CarImage_8a6deb999a3e46c7a9e89fdf8d56824a_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-07-19T12:42:40.98",
+    "brand": "kmc",
+    "brand_fa": "کی ام سی"
+   },
+   "specs": {
+    "volume": "2.0 لیتر",
+    "engine": "4 سیلندر توربوشارژ (HFC4DB2)",
+    "acceleration": null,
+    "fuel": null,
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": null,
+    "url_review": "/car-reviews/kmc/t9-specs-1455-2literturbo"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "negotiable",
+    "price": "0",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/64edcb93-7ef6-4ed1-90b6-eb41be205125/CarImage_8a6deb999a3e46c7a9e89fdf8d56824a_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/64edcb93-7ef6-4ed1-90b6-eb41be205125/CarImage_8a6deb999a3e46c7a9e89fdf8d56824a_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/64edcb93-7ef6-4ed1-90b6-eb41be205125/CarImage_8a6deb999a3e46c7a9e89fdf8d56824a_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/64edcb93-7ef6-4ed1-90b6-eb41be205125/CarImage_8a6deb999a3e46c7a9e89fdf8d56824a_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/64edcb93-7ef6-4ed1-90b6-eb41be205125/CarImage_f4de56bf9a1944f4a0f555d99c20508b_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/64edcb93-7ef6-4ed1-90b6-eb41be205125/CarImage_f4de56bf9a1944f4a0f555d99c20508b_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/64edcb93-7ef6-4ed1-90b6-eb41be205125/CarImage_f4de56bf9a1944f4a0f555d99c20508b_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/64edcb93-7ef6-4ed1-90b6-eb41be205125/CarImage_f4de56bf9a1944f4a0f555d99c20508b_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/64edcb93-7ef6-4ed1-90b6-eb41be205125/CarImage_dfb930b1edc64365a594f37545ca24c4_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/64edcb93-7ef6-4ed1-90b6-eb41be205125/CarImage_dfb930b1edc64365a594f37545ca24c4_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/64edcb93-7ef6-4ed1-90b6-eb41be205125/CarImage_dfb930b1edc64365a594f37545ca24c4_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/64edcb93-7ef6-4ed1-90b6-eb41be205125/CarImage_dfb930b1edc64365a594f37545ca24c4_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "کی ام سی T9 2 لیتر توربو فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, کی ام سی, T9, 2 لیتر توربو, 1403,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو کی ام سی T9 2 لیتر توربو تولید 1403 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-ivxtawor-kmc-t9-2literturbo-1403",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "کی ام سی",
+      "url": "/car/kmc"
+     },
+     {
+      "title": "T9",
+      "url": "/car/kmc-t9"
+     },
+     {
+      "title": "2 لیتر توربو",
+      "url": "/car/kmc-t9-2literturbo"
+     },
+     {
+      "title": "1403",
+      "url": "/car/kmc-t9-2literturbo-y1403"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "8elfkshb",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-8elfkshb-peugeot-207-automaticpanoramatu5p-1403",
+    "title": "پژو، 207",
+    "subtitle": "1403 | پانوراما اتوماتیک TU5P",
+    "trim": "پانوراما اتوماتیک TU5P",
+    "time": "14 ساعت پیش",
+    "year": "1403",
+    "mileage": "9,000 km",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "سفید / داخل مشکی",
+    "body_color": "سفید",
+    "inside_color": "مشکی",
+    "body_status": "بدون رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "hatchback",
+    "body_type_fa": "هاچبک",
+    "cylinder_fa": "4 سیلندر",
+    "image_count": 3,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1f2533be-4a79-4fbe-9cd0-5e35e05ec074/CarImage_c3bde3ff08894874a9c394ef9a363090_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-07-19T18:37:10.99",
+    "brand": "peugeot",
+    "brand_fa": "پژو"
+   },
+   "specs": {
+    "volume": "1.6 لیتر",
+    "engine": "4 سیلندر TU5P",
+    "acceleration": "12.6 ثانیه",
+    "fuel": "7.4 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": null,
+    "url_review": "/car-reviews/peugeot/207-specs-1167-381-automaticpanoramatu5p"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "negotiable",
+    "price": "0",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1f2533be-4a79-4fbe-9cd0-5e35e05ec074/CarImage_c3bde3ff08894874a9c394ef9a363090_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1f2533be-4a79-4fbe-9cd0-5e35e05ec074/CarImage_c3bde3ff08894874a9c394ef9a363090_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1f2533be-4a79-4fbe-9cd0-5e35e05ec074/CarImage_c3bde3ff08894874a9c394ef9a363090_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1f2533be-4a79-4fbe-9cd0-5e35e05ec074/CarImage_c3bde3ff08894874a9c394ef9a363090_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1f2533be-4a79-4fbe-9cd0-5e35e05ec074/CarImage_0bce35b6888d46dcadda1098d09416ae_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1f2533be-4a79-4fbe-9cd0-5e35e05ec074/CarImage_0bce35b6888d46dcadda1098d09416ae_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1f2533be-4a79-4fbe-9cd0-5e35e05ec074/CarImage_0bce35b6888d46dcadda1098d09416ae_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1f2533be-4a79-4fbe-9cd0-5e35e05ec074/CarImage_0bce35b6888d46dcadda1098d09416ae_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1f2533be-4a79-4fbe-9cd0-5e35e05ec074/CarImage_127868b0994446489bb27884c1548f34_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1f2533be-4a79-4fbe-9cd0-5e35e05ec074/CarImage_127868b0994446489bb27884c1548f34_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1f2533be-4a79-4fbe-9cd0-5e35e05ec074/CarImage_127868b0994446489bb27884c1548f34_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1f2533be-4a79-4fbe-9cd0-5e35e05ec074/CarImage_127868b0994446489bb27884c1548f34_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "پژو 207 پانوراما اتوماتیک TU5P فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, پژو, 207, پانوراما اتوماتیک TU5P, 1403,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو پژو 207 پانوراما اتوماتیک TU5P تولید 1403 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-8elfkshb-peugeot-207-automaticpanoramatu5p-1403",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "پژو",
+      "url": "/car/peugeot"
+     },
+     {
+      "title": "207",
+      "url": "/car/peugeot-207"
+     },
+     {
+      "title": "پانوراما اتوماتیک TU5P",
+      "url": "/car/peugeot-207-automaticpanoramatu5p"
+     },
+     {
+      "title": "1403",
+      "url": "/car/peugeot-207-automaticpanoramatu5p-y1403"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "d2f3youo",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-d2f3youo-mercedesbenz-eclass-e250-2016",
+    "title": "بنز، کلاس E",
+    "subtitle": "2016 | E250",
+    "trim": "E250",
+    "time": "14 ساعت پیش",
+    "year": "2016",
+    "mileage": "60,000 km",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "سفید / داخل مشکی",
+    "body_color": "سفید",
+    "inside_color": "مشکی",
+    "body_status": "بدون رنگ",
+    "description": "فوق العاده تمیز\nدرحد صفر\nکارکرد واقعی\n۹رادار\nسقف پانا",
+    "authenticated": false,
+    "body_type": "passenger_car",
+    "body_type_fa": "سدان",
+    "cylinder_fa": "6 سیلندر",
+    "image_count": 2,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1c1b102a-428b-4e49-9b0f-5162ef08312e/CarImage_639139188123599767_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-05-14T13:25:03.31",
+    "brand": "mercedesbenz",
+    "brand_fa": "بنز"
+   },
+   "specs": {
+    "volume": "2 لیتر",
+    "engine": "4 سیلندر توربوشارژ",
+    "acceleration": "7.4 ثانیه",
+    "fuel": "6.1 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": null,
+    "url_review": "/car-reviews/mercedesbenz/eclass-specs-1178-383-e250"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "negotiable",
+    "price": "0",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1c1b102a-428b-4e49-9b0f-5162ef08312e/CarImage_639139188123599767_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1c1b102a-428b-4e49-9b0f-5162ef08312e/CarImage_639139188123599767_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1c1b102a-428b-4e49-9b0f-5162ef08312e/CarImage_639139188123599767_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1c1b102a-428b-4e49-9b0f-5162ef08312e/CarImage_639139188123599767_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1c1b102a-428b-4e49-9b0f-5162ef08312e/CarImage_639139188123599810_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1c1b102a-428b-4e49-9b0f-5162ef08312e/CarImage_639139188123599810_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1c1b102a-428b-4e49-9b0f-5162ef08312e/CarImage_639139188123599810_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/1c1b102a-428b-4e49-9b0f-5162ef08312e/CarImage_639139188123599810_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "بنز کلاس E E250 فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, بنز, کلاس E, E250, 2016,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو بنز کلاس E E250 تولید 2016 در شهر کرج، فوق العاده تمیز\nدرحد صفر\nکارکرد واقعی\n۹رادار\nسقف پانا",
+    "canonical": "https://bama.ir/car/detail-d2f3youo-mercedesbenz-eclass-e250-2016",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "بنز",
+      "url": "/car/mercedesbenz"
+     },
+     {
+      "title": "کلاس E",
+      "url": "/car/mercedesbenz-eclass"
+     },
+     {
+      "title": "E250",
+      "url": "/car/mercedesbenz-eclass-e250"
+     },
+     {
+      "title": "2016",
+      "url": "/car/mercedesbenz-eclass-e250-y2016"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "9kytsegs",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-9kytsegs-renault-tondar90-e2-1393",
+    "title": "رنو، تندر 90",
+    "subtitle": "1393 | E2",
+    "trim": "E2",
+    "time": "14 ساعت پیش",
+    "year": "1393",
+    "mileage": "170,000 km",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "دنده ای",
+    "fuel": "بنزینی",
+    "color": "سفید / داخل مشکی",
+    "body_color": "سفید",
+    "inside_color": "مشکی",
+    "body_status": "بدون رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "passenger_car",
+    "body_type_fa": "سدان",
+    "cylinder_fa": "4 سیلندر",
+    "image_count": 3,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/18df9b5b-c34c-4ef5-a0c3-ed0a13964c8a/CarImage_6d54e521524f40fe8e87fa38ae089783_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-07-26T18:41:38.41",
+    "brand": "renault",
+    "brand_fa": "رنو"
+   },
+   "specs": {
+    "volume": "1.6 لیتر",
+    "engine": "4 سیلندر",
+    "acceleration": "10.2 ثانیه",
+    "fuel": "6.9 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": null,
+    "url_review": "/car-reviews/renault/tondar90-specs-1106-e2"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "negotiable",
+    "price": "0",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/18df9b5b-c34c-4ef5-a0c3-ed0a13964c8a/CarImage_6d54e521524f40fe8e87fa38ae089783_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/18df9b5b-c34c-4ef5-a0c3-ed0a13964c8a/CarImage_6d54e521524f40fe8e87fa38ae089783_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/18df9b5b-c34c-4ef5-a0c3-ed0a13964c8a/CarImage_6d54e521524f40fe8e87fa38ae089783_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/18df9b5b-c34c-4ef5-a0c3-ed0a13964c8a/CarImage_6d54e521524f40fe8e87fa38ae089783_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/18df9b5b-c34c-4ef5-a0c3-ed0a13964c8a/CarImage_e7358ce73bc647ed9a88df6723fd26cc_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/18df9b5b-c34c-4ef5-a0c3-ed0a13964c8a/CarImage_e7358ce73bc647ed9a88df6723fd26cc_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/18df9b5b-c34c-4ef5-a0c3-ed0a13964c8a/CarImage_e7358ce73bc647ed9a88df6723fd26cc_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/18df9b5b-c34c-4ef5-a0c3-ed0a13964c8a/CarImage_e7358ce73bc647ed9a88df6723fd26cc_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/18df9b5b-c34c-4ef5-a0c3-ed0a13964c8a/CarImage_8d2686f47f614335888aa9551e7b9b14_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/18df9b5b-c34c-4ef5-a0c3-ed0a13964c8a/CarImage_8d2686f47f614335888aa9551e7b9b14_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/18df9b5b-c34c-4ef5-a0c3-ed0a13964c8a/CarImage_8d2686f47f614335888aa9551e7b9b14_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/18df9b5b-c34c-4ef5-a0c3-ed0a13964c8a/CarImage_8d2686f47f614335888aa9551e7b9b14_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "رنو تندر 90 E2 فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, رنو, تندر 90, E2, 1393,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو رنو تندر 90 E2 تولید 1393 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-9kytsegs-renault-tondar90-e2-1393",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "رنو",
+      "url": "/car/renault"
+     },
+     {
+      "title": "تندر 90",
+      "url": "/car/renault-tondar90"
+     },
+     {
+      "title": "E2",
+      "url": "/car/renault-tondar90-e2"
+     },
+     {
+      "title": "1393",
+      "url": "/car/renault-tondar90-e2-y1393"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  },
+  {
+   "type": "ad",
+   "detail": {
+    "type": "car",
+    "code": "inlggveb",
+    "rank": 0,
+    "badge": true,
+    "pin": false,
+    "url": "/car/detail-inlggveb-kmc-a5-1.5literturbo-1403",
+    "title": "کی ام سی، A5",
+    "subtitle": "1403 | 1.5 لیتر توربو",
+    "trim": "1.5 لیتر توربو",
+    "time": "14 ساعت پیش",
+    "year": "1403",
+    "mileage": "12,000 km",
+    "location": "کرج / بلوار دانش آموز",
+    "specialcase": null,
+    "transmission": "اتوماتیک",
+    "fuel": "بنزینی",
+    "color": "خاکستری / داخل مشکی",
+    "body_color": "خاکستری",
+    "inside_color": "مشکی",
+    "body_status": "بدون رنگ",
+    "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "authenticated": false,
+    "body_type": "crossover",
+    "body_type_fa": "کراس اور",
+    "cylinder_fa": "4 سیلندر",
+    "image_count": 3,
+    "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/44914b6e-744d-44f7-8844-11fe6b484d5e/CarImage_db61961874114e41abb21dce8c0335ac_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "modified_date": "2026-07-26T18:49:36.08",
+    "brand": "kmc",
+    "brand_fa": "کی ام سی"
+   },
+   "specs": {
+    "volume": "1.5 لیتر",
+    "engine": "4 سیلندر توربوشارژ (DG15T)",
+    "acceleration": null,
+    "fuel": "7.8 لیتر در صد کیلومتر",
+    "battery_capacity": null,
+    "all_electric_range": null,
+    "url_price": null,
+    "url_review": "/car-reviews/kmc/a5-specs-1480-1.5literturbo"
+   },
+   "dealer": {
+    "id": 921,
+    "type": "نمایشگاه",
+    "package_type": "car_normal",
+    "name": "اتو گالری نعمتی",
+    "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg",
+    "link": "/dealer/921",
+    "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+    "ad_count": 18,
+    "score": null
+   },
+   "price": {
+    "type": "negotiable",
+    "price": "0",
+    "prepayment": "0",
+    "payment": "0",
+    "prepayment_primary": "0",
+    "prepayment_secondary": "0",
+    "payment_primary": "0",
+    "month_number": 0,
+    "installments": 0,
+    "delivery_days": 0
+   },
+   "images": [
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/44914b6e-744d-44f7-8844-11fe6b484d5e/CarImage_db61961874114e41abb21dce8c0335ac_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/44914b6e-744d-44f7-8844-11fe6b484d5e/CarImage_db61961874114e41abb21dce8c0335ac_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/44914b6e-744d-44f7-8844-11fe6b484d5e/CarImage_db61961874114e41abb21dce8c0335ac_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/44914b6e-744d-44f7-8844-11fe6b484d5e/CarImage_db61961874114e41abb21dce8c0335ac_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/44914b6e-744d-44f7-8844-11fe6b484d5e/CarImage_5dccd39e1b80432283eb4dfee2fff1e3_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/44914b6e-744d-44f7-8844-11fe6b484d5e/CarImage_5dccd39e1b80432283eb4dfee2fff1e3_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/44914b6e-744d-44f7-8844-11fe6b484d5e/CarImage_5dccd39e1b80432283eb4dfee2fff1e3_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/44914b6e-744d-44f7-8844-11fe6b484d5e/CarImage_5dccd39e1b80432283eb4dfee2fff1e3_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    },
+    {
+     "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/44914b6e-744d-44f7-8844-11fe6b484d5e/CarImage_b7cceb826ea3441b97df0c1c61959091_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+     "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/44914b6e-744d-44f7-8844-11fe6b484d5e/CarImage_b7cceb826ea3441b97df0c1c61959091_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/44914b6e-744d-44f7-8844-11fe6b484d5e/CarImage_b7cceb826ea3441b97df0c1c61959091_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+     "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/44914b6e-744d-44f7-8844-11fe6b484d5e/CarImage_b7cceb826ea3441b97df0c1c61959091_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+    }
+   ],
+   "metadata": {
+    "title_tag": "کی ام سی A5 1.5 لیتر توربو فروشی - 1405/5/5",
+    "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, کی ام سی, A5, 1.5 لیتر توربو, 1403,  bama, buy, sell, car, brand new, second hand, used",
+    "description": "خرید خودرو کی ام سی A5 1.5 لیتر توربو تولید 1403 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+    "canonical": "https://bama.ir/car/detail-inlggveb-kmc-a5-1.5literturbo-1403",
+    "noindex": true
+   },
+   "breadcrump": {
+    "links": [
+     {
+      "title": "باما",
+      "url": "/"
+     },
+     {
+      "title": "خودرو",
+      "url": "/car"
+     },
+     {
+      "title": "کی ام سی",
+      "url": "/car/kmc"
+     },
+     {
+      "title": "A5",
+      "url": "/car/kmc-a5"
+     },
+     {
+      "title": "1.5 لیتر توربو",
+      "url": "/car/kmc-a5-1.5literturbo"
+     },
+     {
+      "title": "1403",
+      "url": "/car/kmc-a5-1.5literturbo-y1403"
+     },
+     {
+      "title": "جزییات",
+      "url": null
+     }
+    ]
+   },
+   "banner": null,
+   "promotion": null,
+   "similarity": null,
+   "authenticity": null,
+   "videos": null,
+   "collaboration_price": null
+  }
+ ]
+}

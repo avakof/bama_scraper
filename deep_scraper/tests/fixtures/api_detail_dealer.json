@@ -1,0 +1,165 @@
+{
+ "status": true,
+ "errors": [],
+ "metadata": null,
+ "data": {
+  "detail": {
+   "type": "car",
+   "code": "wrtd3m5b",
+   "url": "/car/detail-wrtd3m5b-tara-automatic-1402",
+   "title": "تارا، اتوماتیک V2",
+   "subtitle": "1402 ",
+   "trim": "اتوماتیک",
+   "time": "8 ساعت پیش",
+   "year": "1402",
+   "location": "کرج / بلوار دانش آموز",
+   "mileage": "78,000 km",
+   "transmission": "اتوماتیک",
+   "fuel": "بنزینی",
+   "color": "خاکستری / داخل مشکی",
+   "body_color": "خاکستری",
+   "inside_color": "مشکی",
+   "body_status": "بدون رنگ",
+   "description": "اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+   "authenticated": false,
+   "body_type": "passenger_car",
+   "image_count": 2,
+   "ad_class_i_d": 8,
+   "has_related": true,
+   "province": "البرز",
+   "badge": true,
+   "brand_icon": "https://cdn-sth1.bama.ir/assets/filter/car-brand-logo/tara",
+   "brand": "tara",
+   "model": "automatic",
+   "trim_en": null,
+   "is_bookmarked": false,
+   "pre_sale_delivery": null,
+   "is_pre_sale": false,
+   "life_styles": [
+    {
+     "value": "Family",
+     "display_name": "خانواده"
+    },
+    {
+     "value": "MarketFavorite",
+     "display_name": "محبوب بازار"
+    }
+   ],
+   "body": {
+    "value": "passenger_car",
+    "display_name": "سدان"
+   }
+  },
+  "icon": {
+   "mileage": "https://cdn-sth1.bama.ir/assets/icons/svg/speed.svg",
+   "fuel": "https://cdn-sth1.bama.ir/assets/icons/svg/fuel.svg",
+   "transmission": "https://cdn-sth1.bama.ir/assets/icons/svg/gearbox.svg",
+   "color": "https://cdn-sth1.bama.ir/assets/icons/svg/brush.svg",
+   "inside_color": "https://cdn-sth1.bama.ir/assets/icons/svg/seat.svg",
+   "body_status": "https://cdn-sth1.bama.ir/assets/icons/svg/car_body.svg",
+   "volume": "https://cdn-sth1.bama.ir/assets/icons/svg/cylinder-outlined-bold.svg",
+   "engine": "https://cdn-sth1.bama.ir/assets/icons/svg/engine-outlined-bold.svg",
+   "acceleration": "https://cdn-sth1.bama.ir/assets/icons/svg/stopWatch-outlined-bold.svg",
+   "combined_consumption": "https://cdn-sth1.bama.ir/assets/icons/svg/fuelGauge-outlined-bold.svg",
+   "power": "https://cdn-sth1.bama.ir/assets/icons/svg/horsepower-outlined-bold.svg",
+   "drive_shaft": "https://cdn-sth1.bama.ir/assets/icons/svg/drive%20shaft-outlined-bold.svg",
+   "torque": "https://cdn-sth1.bama.ir/assets/icons/svg/torque-outlined-bold.svg"
+  },
+  "specs": {
+   "volume": "1.6 لیتر",
+   "engine": "4 سیلندر TU5 پلاس",
+   "acceleration": "13 ثانیه",
+   "fuel": "7.3 لیتر در صد کیلومتر",
+   "drive_shaft": "دیفرانسیل جلو",
+   "body_type": "سدان جمع و جور",
+   "power": "113 اسب‌بخار",
+   "torque": "144 نیوتن‌متر",
+   "battery_capacity": null,
+   "all_electric_range": null,
+   "url_price": null,
+   "url_review": "/car-reviews/tara/automatic-specs-1393"
+  },
+  "dealer": {
+   "id": 921,
+   "name": "اتو گالری نعمتی",
+   "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_636795206844724851.jpg?x-img=v1/format,type_webp/autorotate/resize,w_78",
+   "link": "/dealer/921",
+   "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+   "ad_count": 18,
+   "score": 4.5,
+   "activity_duration": {
+    "year": 7,
+    "month": 8
+   }
+  },
+  "price": {
+   "type": "lumpsum",
+   "price": "2,050,000,000",
+   "prepayment_primary": "0",
+   "prepayment_secondary": "0",
+   "payment_primary": "0",
+   "month_number": 0,
+   "installments": 0,
+   "delivery_days": 0
+  },
+  "images": [
+   {
+    "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138094_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+    "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138094_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138094_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+    "original": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138094.jpg"
+   },
+   {
+    "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138130_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+    "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138130_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138130_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+    "original": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/919d79b4-7aed-4e67-a355-e11e1a5a6404/CarImage_639151586005138130.jpg"
+   }
+  ],
+  "videos": null,
+  "options": null,
+  "metadata": {
+   "title_tag": "تارا اتوماتیک V2 فروشی - 1405/5/5",
+   "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, تارا, اتوماتیک V2, 1402,  bama, buy, sell, car, brand new, second hand, used",
+   "description": "خرید خودرو تارا اتوماتیک V2 تولید 1402 در شهر کرج، اتوگالری نعمتى، انتخاب حرفه اى ها براى خرید وفروش مطمئن🚗✨\nخرید وفروش تخصصى خودروهاى خارجى صفر و کارکرده با بهترین قیمت بازار🔥\n✅فروش نقد و اقساط باحداقل ۵۰٪پیش پرداخت\n✅ کارشناسى کامل و دقیق قبل از معامله\n✅ تسویه نقدى و فورى\n✅تحویل فوری \n✅معاوضه با خودرو ایرانى یا خارجى یذیرفته مى شود\n✅مشاوره رایگان خرید و فروش\n✅محیط مطمئن و حرفه اى نمایشگاه\n🕰️ساعت پاسخگویی ۹الی۱۴ ۱۶الی ۲۱",
+   "canonical": "https://bama.ir/car/detail-wrtd3m5b-tara-automatic-1402",
+   "noindex": true
+  },
+  "breadcrump": {
+   "links": [
+    {
+     "title": "باما",
+     "url": "/"
+    },
+    {
+     "title": "خودرو",
+     "url": "/car"
+    },
+    {
+     "title": "تارا",
+     "url": "/car/tara"
+    },
+    {
+     "title": "اتوماتیک V2",
+     "url": "/car/tara-automatic"
+    },
+    {
+     "title": "1402",
+     "url": "/car/tara-automatic-y1402"
+    },
+    {
+     "title": "جزییات",
+     "url": null
+    }
+   ]
+  },
+  "authenticity": null,
+  "inspection_station_count": 0,
+  "ads_statistics": {
+   "model": 77,
+   "trim": 77
+  },
+  "collaboration_price": null,
+  "publish_networks": "B2C"
+ }
+}

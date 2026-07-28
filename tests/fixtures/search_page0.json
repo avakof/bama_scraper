@@ -1,0 +1,459 @@
+{
+ "metadata": {
+  "total_count": 32,
+  "total_pages": 2,
+  "current_page": 0,
+  "has_next": true,
+  "has_previous": false
+ },
+ "status": true,
+ "errors": [],
+ "data": {
+  "impressions": 34,
+  "url": "/car?body=passenger_car&country=iranian",
+  "ads": [
+   {
+    "type": "banner",
+    "detail": null,
+    "specs": null,
+    "dealer": null,
+    "price": null,
+    "images": null,
+    "metadata": null,
+    "breadcrump": null,
+    "banner": {
+     "type": "Image",
+     "position": 1,
+     "periodic_position": 0,
+     "is_periodic": false,
+     "title": null,
+     "href": "https://snapp.market/modals/mega-banner?utm_medium=banner&utm_source=bama&utm_campaign=summer5B&bannerId=769",
+     "aspect_ratio_desktop": 3,
+     "aspect_ratio_mobile": 2,
+     "mobile_large": "https://cdn-sth1.bama.ir/uploads/BamaImages/CampaignBanner/183/e0358e81-6925-48ca-9e56-ba6af79200b8_Mobile.jpg",
+     "large_url": "https://cdn-sth1.bama.ir/uploads/BamaImages/CampaignBanner/183/e0358e81-6925-48ca-9e56-ba6af79200b8.jpg"
+    },
+    "promotion": null,
+    "similarity": null,
+    "authenticity": null,
+    "videos": null,
+    "collaboration_price": null
+   },
+   {
+    "type": "ad",
+    "detail": {
+     "type": "car",
+     "code": "lanch67j",
+     "rank": 1,
+     "badge": false,
+     "pin": false,
+     "url": "/car/detail-lanch67j-dena-plusef7p-6mt-1403",
+     "title": "دنا، پلاس EF7P",
+     "subtitle": "1403 | 6 دنده",
+     "trim": "6 دنده",
+     "time": "لحظاتی پیش",
+     "year": "1403",
+     "mileage": "40,000 km",
+     "location": "تهران / بلوار فردوس",
+     "specialcase": null,
+     "transmission": "دنده ای",
+     "fuel": "بنزینی",
+     "color": "سفید / داخل مارون",
+     "body_color": "سفید",
+     "inside_color": "مارون",
+     "body_status": "بدون رنگ",
+     "description": "",
+     "authenticated": false,
+     "body_type": "passenger_car",
+     "body_type_fa": "سدان",
+     "cylinder_fa": "4 سیلندر",
+     "image_count": 3,
+     "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/23b72d29-b38a-4270-9823-6aeedb4da3ea/CarImage_4c475a302fc140519184b840c2862a53_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "modified_date": "2026-07-27T19:46:48.9",
+     "brand": "dena",
+     "brand_fa": "دنا"
+    },
+    "specs": {
+     "volume": "1.7 لیتر",
+     "engine": "4 سیلندر EF7P",
+     "acceleration": "12 ثانیه",
+     "fuel": "6.9 لیتر در صد کیلومتر",
+     "battery_capacity": null,
+     "all_electric_range": null,
+     "url_price": null,
+     "url_review": "/car-reviews/dena/plusef7p-specs-1481-6mt"
+    },
+    "dealer": null,
+    "price": {
+     "type": "negotiable",
+     "price": "0",
+     "prepayment": "0",
+     "payment": "0",
+     "prepayment_primary": "0",
+     "prepayment_secondary": "0",
+     "payment_primary": "0",
+     "month_number": 0,
+     "installments": 0,
+     "delivery_days": 0
+    },
+    "images": [
+     {
+      "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/23b72d29-b38a-4270-9823-6aeedb4da3ea/CarImage_4c475a302fc140519184b840c2862a53_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+      "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/23b72d29-b38a-4270-9823-6aeedb4da3ea/CarImage_4c475a302fc140519184b840c2862a53_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+      "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/23b72d29-b38a-4270-9823-6aeedb4da3ea/CarImage_4c475a302fc140519184b840c2862a53_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+      "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/23b72d29-b38a-4270-9823-6aeedb4da3ea/CarImage_4c475a302fc140519184b840c2862a53_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+     },
+     {
+      "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/23b72d29-b38a-4270-9823-6aeedb4da3ea/CarImage_2c4a133f5d15401091cef54261f02967_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+      "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/23b72d29-b38a-4270-9823-6aeedb4da3ea/CarImage_2c4a133f5d15401091cef54261f02967_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+      "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/23b72d29-b38a-4270-9823-6aeedb4da3ea/CarImage_2c4a133f5d15401091cef54261f02967_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+      "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/23b72d29-b38a-4270-9823-6aeedb4da3ea/CarImage_2c4a133f5d15401091cef54261f02967_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+     },
+     {
+      "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/23b72d29-b38a-4270-9823-6aeedb4da3ea/CarImage_438e9dfe14c047ffb3d6432dbf4a3b58_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+      "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/23b72d29-b38a-4270-9823-6aeedb4da3ea/CarImage_438e9dfe14c047ffb3d6432dbf4a3b58_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+      "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/23b72d29-b38a-4270-9823-6aeedb4da3ea/CarImage_438e9dfe14c047ffb3d6432dbf4a3b58_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+      "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/23b72d29-b38a-4270-9823-6aeedb4da3ea/CarImage_438e9dfe14c047ffb3d6432dbf4a3b58_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+     }
+    ],
+    "metadata": {
+     "title_tag": "دنا پلاس EF7P 6 دنده فروشی امروز دوشنبه 5 مرداد",
+     "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, دنا, پلاس EF7P, 6 دنده, 1403,  bama, buy, sell, car, brand new, second hand, used",
+     "description": "خرید خودرو دنا پلاس EF7P 6 دنده تولید 1403 در شهر تهران، ",
+     "canonical": "https://bama.ir/car/detail-lanch67j-dena-plusef7p-6mt-1403",
+     "noindex": true
+    },
+    "breadcrump": {
+     "links": [
+      {
+       "title": "باما",
+       "url": "/"
+      },
+      {
+       "title": "خودرو",
+       "url": "/car"
+      },
+      {
+       "title": "دنا",
+       "url": "/car/dena"
+      },
+      {
+       "title": "پلاس EF7P",
+       "url": "/car/dena-plusef7p"
+      },
+      {
+       "title": "6 دنده",
+       "url": "/car/dena-plusef7p-6mt"
+      },
+      {
+       "title": "1403",
+       "url": "/car/dena-plusef7p-6mt-y1403"
+      },
+      {
+       "title": "جزییات",
+       "url": null
+      }
+     ]
+    },
+    "banner": null,
+    "promotion": null,
+    "similarity": null,
+    "authenticity": null,
+    "videos": null,
+    "collaboration_price": null
+   },
+   {
+    "type": "ad",
+    "detail": {
+     "type": "car",
+     "code": "vypkxude",
+     "rank": 2,
+     "badge": true,
+     "pin": false,
+     "url": "/car/detail-vypkxude-peugeot-pars-mt-1400",
+     "title": "پژو، پارس",
+     "subtitle": "1400 | XU7",
+     "trim": "XU7",
+     "time": "دقایقی پیش",
+     "year": "1400",
+     "mileage": "50,000 km",
+     "location": "تهران / جیحون",
+     "specialcase": null,
+     "transmission": "دنده ای",
+     "fuel": "بنزینی",
+     "color": "خاکستری / داخل مشکی",
+     "body_color": "خاکستری",
+     "inside_color": "مشکی",
+     "body_status": "بدون رنگ",
+     "description": "پژو پارس سال موتور جدید مدل ۱۴۰۰ \nبدون رنگ شدگی ۶ ماه بیمه \nفنی و سواری عالی لاستیک ها نو \nتک برگ سند بدون رنگ شاسی سالم و....\nبه شرط کارشناسی شما\nنقد اقساط و معاوضه(فقط ساکنین تهران و حومه \nاز ۳ ماه تا ۲۴ ماه با چک تهران و حومه سود ۴ درصد\nسند و پلاک به نام خریدار میگردد \nبدون هیچ گونه هزینه اضافی اعم از ورودی و کمیسیون و...",
+     "authenticated": false,
+     "body_type": "passenger_car",
+     "body_type_fa": "سدان",
+     "cylinder_fa": "4 سیلندر",
+     "image_count": 4,
+     "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898218_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "modified_date": "2026-07-25T12:56:58.13",
+     "brand": "peugeot",
+     "brand_fa": "پژو"
+    },
+    "specs": {
+     "volume": "1.8 لیتر",
+     "engine": "4 سیلندر XU7",
+     "acceleration": "11 ثانیه",
+     "fuel": "9.1 لیتر در صد کیلومتر",
+     "battery_capacity": null,
+     "all_electric_range": null,
+     "url_price": null,
+     "url_review": "/car-reviews/peugeot/pars-specs-1463-471-mt"
+    },
+    "dealer": {
+     "id": 6007,
+     "type": "نمایشگاه",
+     "package_type": "car_normal",
+     "name": "اتو گالری خادمی",
+     "logo": "https://cdn-sth1.bama.ir/uploads/BamaImages/Corporations/corporation_638713568069411757.jpg",
+     "link": "/dealer/6007",
+     "address": "خیابان جیحون، خیابان قصرالدشت، نرسیده به چهارراه امام خمینی پلاک 307",
+     "ad_count": 44,
+     "score": 2.9
+    },
+    "price": {
+     "type": "installment",
+     "price": "15,120,000,000",
+     "prepayment": "6,000,000,000",
+     "payment": "380,000,000",
+     "prepayment_primary": "6,000,000,000",
+     "prepayment_secondary": "0",
+     "payment_primary": "380,000,000",
+     "month_number": 1,
+     "installments": 1,
+     "delivery_days": 1
+    },
+    "images": [
+     {
+      "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898218_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+      "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898218_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+      "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898218_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+      "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898218_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+     },
+     {
+      "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898331_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+      "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898331_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+      "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898331_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+      "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898331_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+     },
+     {
+      "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898364_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+      "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898364_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+      "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898364_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+      "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898364_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+     },
+     {
+      "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898391_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+      "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898391_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+      "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898391_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+      "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/4595ff82-9352-4f8b-ab8c-3e598eb44ee9/CarImage_639197945479898391_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+     }
+    ],
+    "metadata": {
+     "title_tag": "پژو پارس XU7 فروشی امروز دوشنبه 5 مرداد",
+     "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, پژو, پارس, XU7, 1400, فروش اقساطی, bama, buy, sell, car, brand new, second hand, used",
+     "description": "خرید خودرو پژو پارس XU7 تولید 1400 در شهر تهران، پژو پارس سال موتور جدید مدل ۱۴۰۰ \nبدون رنگ شدگی ۶ ماه بیمه \nفنی و سواری عالی لاستیک ها نو \nتک برگ سند بدون رنگ شاسی سالم و....\nبه شرط کارشناسی شما\nنقد اقساط و معاوضه(فقط ساکنین تهران و حومه \nاز ۳ ماه تا ۲۴ ماه با چک تهران و حومه سود ۴ درصد\nسند و پلاک به نام خریدار میگردد \nبدون هیچ گونه هزینه اضافی اعم از ورودی و کمیسیون و...",
+     "canonical": "https://bama.ir/car/detail-vypkxude-peugeot-pars-mt-1400",
+     "noindex": true
+    },
+    "breadcrump": {
+     "links": [
+      {
+       "title": "باما",
+       "url": "/"
+      },
+      {
+       "title": "خودرو",
+       "url": "/car"
+      },
+      {
+       "title": "پژو",
+       "url": "/car/peugeot"
+      },
+      {
+       "title": "پارس",
+       "url": "/car/peugeot-pars"
+      },
+      {
+       "title": "XU7",
+       "url": "/car/peugeot-pars-mt"
+      },
+      {
+       "title": "1400",
+       "url": "/car/peugeot-pars-mt-y1400"
+      },
+      {
+       "title": "جزییات",
+       "url": null
+      }
+     ]
+    },
+    "banner": null,
+    "promotion": null,
+    "similarity": null,
+    "authenticity": null,
+    "videos": null,
+    "collaboration_price": null
+   },
+   {
+    "type": "ad",
+    "detail": {
+     "type": "car",
+     "code": "nmqvojlh",
+     "rank": 3,
+     "badge": false,
+     "pin": false,
+     "url": "/car/detail-nmqvojlh-saina-manuals-mtgas-1401",
+     "title": "ساینا، S",
+     "subtitle": "1401 | دنده ای بنزینی",
+     "trim": "دنده ای بنزینی",
+     "time": "دقایقی پیش",
+     "year": "1401",
+     "mileage": "27,500 km",
+     "location": "تهران / تهران‌سر",
+     "specialcase": null,
+     "transmission": "دنده ای",
+     "fuel": "بنزینی",
+     "color": "سفید / داخل -",
+     "body_color": "سفید",
+     "inside_color": "-",
+     "body_status": "بدون رنگ",
+     "description": "با سلام \nساینا اس مدل اسفند 1401\n کم‌کارکرد و بسیار تمیز. \nاز نظر فنی کاملاً سالم، موتور و گیربکس بدون هیچ‌گونه ایراد. بدنه سالم، داخل کابین تمیز و مرتب. سرویس‌ها به‌موقع انجام شده و خودرو آماده استفاده است.\nشیشه دودی\nچرم دور فرمون\nروکش صندلی \nکفی پنج بعدی و کفی صندوق \nبنزین 190 لیتر در کارت سوخت\nتعویض روغن و فیلتر به تازگی انجام شده \nفقط مصرف کننده تماس بگیرد\nتخفیف پای معامله",
+     "authenticated": false,
+     "body_type": "passenger_car",
+     "body_type_fa": "سدان",
+     "cylinder_fa": "4 سیلندر",
+     "image_count": 4,
+     "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_4678923c670b4c96bcdba80075355430_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+     "modified_date": "2026-07-27T19:34:25.18",
+     "brand": "saina",
+     "brand_fa": "ساینا"
+    },
+    "specs": {
+     "volume": "1.5 لیتر",
+     "engine": "4 سیلندر M15",
+     "acceleration": "12.8 ثانیه",
+     "fuel": "6.9 لیتر در صد کیلومتر",
+     "battery_capacity": null,
+     "all_electric_range": null,
+     "url_price": null,
+     "url_review": "/car-reviews/saina/manuals-specs-1357-mtgas"
+    },
+    "dealer": null,
+    "price": {
+     "type": "lumpsum",
+     "price": "1,019,000,000",
+     "prepayment": "0",
+     "payment": "0",
+     "prepayment_primary": "0",
+     "prepayment_secondary": "0",
+     "payment_primary": "0",
+     "month_number": 0,
+     "installments": 0,
+     "delivery_days": 0
+    },
+    "images": [
+     {
+      "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_4678923c670b4c96bcdba80075355430_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+      "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_4678923c670b4c96bcdba80075355430_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+      "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_4678923c670b4c96bcdba80075355430_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+      "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_4678923c670b4c96bcdba80075355430_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+     },
+     {
+      "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_a1bb0685b73c4be6890c13318523c6d2_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+      "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_a1bb0685b73c4be6890c13318523c6d2_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+      "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_a1bb0685b73c4be6890c13318523c6d2_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+      "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_a1bb0685b73c4be6890c13318523c6d2_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+     },
+     {
+      "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_5a58e52e34124d19ae9be1d7221bed93_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+      "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_5a58e52e34124d19ae9be1d7221bed93_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+      "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_5a58e52e34124d19ae9be1d7221bed93_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+      "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_5a58e52e34124d19ae9be1d7221bed93_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+     },
+     {
+      "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_261c424f9cf64b7e9fd635f1bfacba4c_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+      "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_261c424f9cf64b7e9fd635f1bfacba4c_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+      "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_261c424f9cf64b7e9fd635f1bfacba4c_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+      "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/9ad838ab-231c-480e-b754-a392ad316962/CarImage_261c424f9cf64b7e9fd635f1bfacba4c_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+     }
+    ],
+    "metadata": {
+     "title_tag": "ساینا S دنده ای بنزینی فروشی امروز دوشنبه 5 مرداد",
+     "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, ساینا, S, دنده ای بنزینی, 1401,  bama, buy, sell, car, brand new, second hand, used",
+     "description": "خرید خودرو ساینا S دنده ای بنزینی تولید 1401 در شهر تهران، با سلام \nساینا اس مدل اسفند 1401\n کم‌کارکرد و بسیار تمیز. \nاز نظر فنی کاملاً سالم، موتور و گیربکس بدون هیچ‌گونه ایراد. بدنه سالم، داخل کابین تمیز و مرتب. سرویس‌ها به‌موقع انجام شده و خودرو آماده استفاده است.\nشیشه دودی\nچرم دور فرمون\nروکش صندلی \nکفی پنج بعدی و کفی صندوق \nبنزین 190 لیتر در کارت سوخت\nتعویض روغن و فیلتر به تازگی انجام شده \nفقط مصرف کننده تماس بگیرد\nتخفیف پای معامله",
+     "canonical": "https://bama.ir/car/detail-nmqvojlh-saina-manuals-mtgas-1401",
+     "noindex": true
+    },
+    "breadcrump": {
+     "links": [
+      {
+       "title": "باما",
+       "url": "/"
+      },
+      {
+       "title": "خودرو",
+       "url": "/car"
+      },
+      {
+       "title": "ساینا",
+       "url": "/car/saina"
+      },
+      {
+       "title": "S",
+       "url": "/car/saina-manuals"
+      },
+      {
+       "title": "دنده ای بنزینی",
+       "url": "/car/saina-manuals-mtgas"
+      },
+      {
+       "title": "1401",
+       "url": "/car/saina-manuals-mtgas-y1401"
+      },
+      {
+       "title": "جزییات",
+       "url": null
+      }
+     ]
+    },
+    "banner": null,
+    "promotion": null,
+    "similarity": null,
+    "authenticity": null,
+    "videos": null,
+    "collaboration_price": null
+   }
+  ],
+  "banner": null,
+  "prices": null,
+  "metadata": {
+   "title": "خرید و فروش خودرو",
+   "title_sec": " سدان ایرانی",
+   "title_tag": "خرید و فروش و قیمت روز خودرو سدان ایرانی",
+   "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, , bama, buy, sell, car, brand new, second hand, used, ",
+   "description": "به روزترین آگهی های خرید و فروش و قیمت سدان ایرانی | قیمت خرید سدان ایرانی، صفر، کارکرده، دست دوم، نقد و اقساطی،",
+   "canonical": "https://bama.ir/car?body=passenger_car",
+   "noindex": false
+  },
+  "breadcrump": {
+   "links": [
+    {
+     "title": "باما",
+     "url": "/"
+    },
+    {
+     "title": "خودرو",
+     "url": null
+    }
+   ]
+  },
+  "pillar_content": null
+ }
+}

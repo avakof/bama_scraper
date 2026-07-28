@@ -1,0 +1,46 @@
+# Bama scraper configuration.
+# Copy to config.yaml and pass with:  python -m bama_scraper run --config config.yaml
+# Every key here can also be overridden by the equivalent CLI flag.
+
+# --- target -----------------------------------------------------------------
+url: "https://bama.ir/car?year=1397-2018,&price=1000000000&body=passenger_car&country=iranian"
+
+# auto     -> use the public JSON endpoint, fall back to scrolling if it yields nothing
+# api      -> force the JSON endpoint
+# pagination -> same endpoint, explicit pageIndex walk
+# scroll   -> force Playwright infinite scrolling
+mode: auto
+
+# --- browser ----------------------------------------------------------------
+headed: false          # true opens a visible Chromium window (debugging)
+locale: "fa-IR"
+viewport_width: 1440
+viewport_height: 900
+
+# --- discovery / termination ------------------------------------------------
+max_scrolls: 2000      # hard ceiling on scroll cycles
+stale_cycles: 8        # consecutive no-progress cycles required to stop scrolling
+api_stale_pages: 2     # consecutive empty API pages required to stop paging
+max_runtime: 7200.0    # seconds, applies to a single stage
+scroll_pause_ms: 1200  # wait after scrolling to the bottom
+settle_ms: 2500        # wait after navigation / clicking "load more"
+api_page_size: 30      # the endpoint rejects values above 30 with HTTP 400
+
+# --- detail scraping --------------------------------------------------------
+concurrency: 2         # deliberately conservative
+delay_min: 0.4         # random per-request delay, seconds
+delay_max: 1.2
+max_retries: 4
+request_timeout: 45.0
+navigation_timeout: 60.0
+recycle_context_every: 200   # recycle HTTP pool / browser context every N pages
+
+# --- behaviour --------------------------------------------------------------
+resume: true           # skip advertisements already completed
+refresh: false         # true re-scrapes everything, including completed rows
+download_images: false # URLs are always stored; this downloads the bytes too
+
+# --- output -----------------------------------------------------------------
+output_dir: "output"
+log_level: "INFO"
+save_failed_html: true # gzip HTML for failed/ambiguous parses only

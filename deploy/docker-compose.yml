@@ -1,0 +1,62 @@
+# Compose stack for the monitor plus its PostgreSQL database.
+#
+# The monitor service is intentionally NOT long-running: `docker compose run`
+# executes one daily run and exits. The host systemd timer
+# (deploy/bama-monitor.timer) triggers it at 13:00 Europe/Paris; see
+# bama-monitor-docker.service for the wiring.
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: bama-monitor-db
+    environment:
+      POSTGRES_DB: bama_monitor
+      POSTGRES_USER: bama
+      # Supplied from the host environment or a .env file; never committed.
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD}
+      TZ: Europe/Paris
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U bama -d bama_monitor"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  migrate:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      BAMA_MONITOR_DATABASE_URL: postgresql://bama:${POSTGRES_PASSWORD}@postgres:5432/bama_monitor
+      TZ: Europe/Paris
+    command: ["migrate", "--config", "/etc/bama-monitor/config.yaml"]
+    volumes:
+      - monitordata:/data
+    restart: "no"
+
+  monitor:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    container_name: bama-monitor-run
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      BAMA_MONITOR_DATABASE_URL: postgresql://bama:${POSTGRES_PASSWORD}@postgres:5432/bama_monitor
+      BAMA_MONITOR_WEBHOOK_URL: ${BAMA_MONITOR_WEBHOOK_URL:-}
+      TZ: Europe/Paris
+    volumes:
+      - monitordata:/data
+      - ../reports:/data/reports
+    # One run per invocation; the host timer decides when.
+    restart: "no"
+
+volumes:
+  pgdata:
+  monitordata:

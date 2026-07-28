@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  LaunchAgent for the Bama daily monitoring scheduler.
+
+  This template is rendered by install_launchd.sh, which substitutes the @...@
+  placeholders with absolute paths resolved on this machine. Do not install it
+  by hand: launchd does not expand ~, $HOME or relative paths, and a plist with
+  a relative path fails silently at boot.
+
+  The agent keeps a long-running Python scheduler alive. launchd is NOT used as
+  the timer itself, deliberately: `StartCalendarInterval` fires in the machine's
+  local timezone with no way to pin another, so a Mac set to any zone other than
+  Europe/Paris would drift. The Python daemon owns the schedule and pins the
+  timezone explicitly.
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>@LABEL@</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>@WRAPPER@</string>
+    </array>
+
+    <!-- launchd starts jobs at / with no shell profile; both are set explicitly. -->
+    <key>WorkingDirectory</key>
+    <string>@REPO@</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+        <key>PYTHONUNBUFFERED</key>
+        <string>1</string>
+        <key>LANG</key>
+        <string>en_US.UTF-8</string>
+    </dict>
+
+    <!-- Start when the user logs in, and restart if the process dies. -->
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <dict>
+        <key>SuccessfulExit</key>
+        <false/>
+    </dict>
+    <!-- Do not hammer: if it crashes on startup, back off between attempts. -->
+    <key>ThrottleInterval</key>
+    <integer>60</integer>
+
+    <key>StandardOutPath</key>
+    <string>@STDOUT@</string>
+    <key>StandardErrorPath</key>
+    <string>@STDERR@</string>
+
+    <key>ProcessType</key>
+    <string>Background</string>
+    <!-- The daily run does real network and disk work; do not let it be throttled
+         into missing its slot. -->
+    <key>LowPriorityIO</key>
+    <false/>
+    <key>Nice</key>
+    <integer>0</integer>
+</dict>
+</plist>

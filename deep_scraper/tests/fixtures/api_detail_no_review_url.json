@@ -1,0 +1,137 @@
+{
+ "status": true,
+ "errors": [],
+ "metadata": null,
+ "data": {
+  "detail": {
+   "type": "car",
+   "code": "mw07bpe3",
+   "rank": 27,
+   "badge": false,
+   "pin": false,
+   "url": "/car/detail-mw07bpe3-shahin-g-2022",
+   "title": "شاهین، G دنده ای",
+   "subtitle": "2022 ",
+   "trim": "دنده ای",
+   "time": "2 ساعت پیش",
+   "year": "2022",
+   "mileage": "60,000 km",
+   "location": "تهران / اسفندیاری",
+   "specialcase": null,
+   "transmission": "دنده ای",
+   "fuel": "بنزینی",
+   "color": "سفید / داخل -",
+   "body_color": "سفید",
+   "inside_color": "-",
+   "body_status": "بدون رنگ",
+   "description": "",
+   "authenticated": false,
+   "body_type": "passenger_car",
+   "body_type_fa": "سدان",
+   "cylinder_fa": "4 سیلندر",
+   "image_count": 4,
+   "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_43ad0d3287f548cfb9a9d390260620bd_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+   "modified_date": "2026-07-27T18:22:05.92",
+   "brand": "shahin",
+   "brand_fa": "شاهین"
+  },
+  "specs": {
+   "volume": null,
+   "engine": null,
+   "acceleration": null,
+   "fuel": null,
+   "power": null,
+   "torque": null,
+   "drive_shaft": null,
+   "body_type": null,
+   "battery_capacity": null,
+   "all_electric_range": null,
+   "url_price": null,
+   "url_review": null
+  },
+  "dealer": null,
+  "price": {
+   "type": "lumpsum",
+   "price": "1,650,000,000",
+   "prepayment": "0",
+   "payment": "0",
+   "prepayment_primary": "0",
+   "prepayment_secondary": "0",
+   "payment_primary": "0",
+   "month_number": 0,
+   "installments": 0,
+   "delivery_days": 0
+  },
+  "images": [
+   {
+    "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_43ad0d3287f548cfb9a9d390260620bd_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+    "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_43ad0d3287f548cfb9a9d390260620bd_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_43ad0d3287f548cfb9a9d390260620bd_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+    "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_43ad0d3287f548cfb9a9d390260620bd_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+   },
+   {
+    "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_57a491e16f3b497e834324648c483b76_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+    "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_57a491e16f3b497e834324648c483b76_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_57a491e16f3b497e834324648c483b76_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+    "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_57a491e16f3b497e834324648c483b76_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+   },
+   {
+    "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_99eff3fb31a74adba72c7c7148c270bc_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+    "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_99eff3fb31a74adba72c7c7148c270bc_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_99eff3fb31a74adba72c7c7148c270bc_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+    "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_99eff3fb31a74adba72c7c7148c270bc_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+   },
+   {
+    "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_f171679b49b34b99875130ea476d0a1c_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+    "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_f171679b49b34b99875130ea476d0a1c_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_f171679b49b34b99875130ea476d0a1c_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+    "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/b076c0ec-c190-4657-b737-8ebbd9d6b1f7/CarImage_f171679b49b34b99875130ea476d0a1c_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+   }
+  ],
+  "videos": null,
+  "metadata": {
+   "title_tag": "شاهین G دنده ای فروشی امروز دوشنبه 5 مرداد",
+   "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, شاهین, G دنده ای, 2022,  bama, buy, sell, car, brand new, second hand, used",
+   "description": "خرید خودرو شاهین G دنده ای تولید 2022 در شهر تهران، ",
+   "canonical": "https://bama.ir/car/detail-mw07bpe3-shahin-g-2022",
+   "noindex": true
+  },
+  "breadcrump": {
+   "links": [
+    {
+     "title": "باما",
+     "url": "/"
+    },
+    {
+     "title": "خودرو",
+     "url": "/car"
+    },
+    {
+     "title": "شاهین",
+     "url": "/car/shahin"
+    },
+    {
+     "title": "G دنده ای",
+     "url": "/car/shahin-g"
+    },
+    {
+     "title": "2022",
+     "url": "/car/shahin-g-y2022"
+    },
+    {
+     "title": "جزییات",
+     "url": null
+    }
+   ]
+  },
+  "authenticity": null,
+  "collaboration_price": null,
+  "ads_statistics": {
+   "model": 682,
+   "trim": 103
+  },
+  "publish_networks": "B2C",
+  "inspection_station_count": 0,
+  "options": null
+ }
+}

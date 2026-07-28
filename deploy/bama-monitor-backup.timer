@@ -1,0 +1,13 @@
+# 14:30 Europe/Paris: after the 13:00 run has finished and its report is written.
+[Unit]
+Description=Nightly Bama monitoring backup
+
+[Timer]
+OnCalendar=*-*-* 14:30:00
+Timezone=Europe/Paris
+Persistent=true
+RandomizedDelaySec=300
+Unit=bama-monitor-backup.service
+
+[Install]
+WantedBy=timers.target

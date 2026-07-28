@@ -1,0 +1,25 @@
+# Variant of the service unit that runs the containerised monitor.
+# Use this instead of bama-monitor.service when deploying via Docker; the same
+# bama-monitor.timer triggers it.
+
+[Unit]
+Description=Bama listing monitor - daily run (Docker)
+After=docker.service network-online.target
+Requires=docker.service
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/bama-monitor/deploy
+EnvironmentFile=/etc/bama-monitor/monitor.env
+Environment=TZ=Europe/Paris
+
+# --rm so a crashed run leaves no stopped container behind; the database holds
+# the run's outcome, not the container.
+ExecStart=/usr/bin/docker compose -f /opt/bama-monitor/deploy/docker-compose.yml \
+    run --rm monitor run-daily --config /etc/bama-monitor/config.yaml
+TimeoutStartSec=4h
+Restart=no
+SyslogIdentifier=bama-monitor-docker
+
+[Install]
+WantedBy=multi-user.target

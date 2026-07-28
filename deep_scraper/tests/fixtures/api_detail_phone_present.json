@@ -1,0 +1,142 @@
+{
+ "status": true,
+ "errors": [],
+ "metadata": null,
+ "data": {
+  "detail": {
+   "type": "car",
+   "code": "8e6cm2gb",
+   "rank": 1,
+   "badge": false,
+   "pin": false,
+   "url": "/car/detail-8e6cm2gb-peugeot-pars-elxtu5-1402",
+   "title": "پژو، پارس",
+   "subtitle": "1402 | ELX-TU5",
+   "trim": "ELX-TU5",
+   "time": "دقایقی پیش",
+   "year": "1402",
+   "mileage": "100,000 km",
+   "location": "لردگان",
+   "specialcase": null,
+   "transmission": "دنده ای",
+   "fuel": "بنزینی",
+   "color": "سفید / داخل بژ",
+   "body_color": "سفید",
+   "inside_color": "بژ",
+   "body_status": "کاپوت رنگ",
+   "description": "خودرو سالم و بی رنگ، تماس 09120001122 یا تلگرام @fake_dealer_test",
+   "authenticated": false,
+   "body_type": "passenger_car",
+   "body_type_fa": "سدان",
+   "cylinder_fa": "4 سیلندر",
+   "image_count": 4,
+   "image": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_4b33afeb4b8742f99eaf1427cc142953_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+   "modified_date": "2026-07-27T20:35:47.08",
+   "brand": "peugeot",
+   "brand_fa": "پژو",
+   "phone": "۰۹۱۲۰۰۰۱۱XX"
+  },
+  "specs": {
+   "volume": "1.6 لیتر",
+   "engine": "4 سیلندر TU5",
+   "acceleration": "13.2 ثانیه",
+   "fuel": "7.2 لیتر در صد کیلومتر",
+   "power": null,
+   "torque": null,
+   "drive_shaft": null,
+   "body_type": null,
+   "battery_capacity": null,
+   "all_electric_range": null,
+   "url_price": null,
+   "url_review": "/car-reviews/peugeot/pars-specs-1463-471-elxtu5"
+  },
+  "dealer": null,
+  "price": {
+   "type": "lumpsum",
+   "price": "1,000,000,000",
+   "prepayment": "0",
+   "payment": "0",
+   "prepayment_primary": "0",
+   "prepayment_secondary": "0",
+   "payment_primary": "0",
+   "month_number": 0,
+   "installments": 0,
+   "delivery_days": 0
+  },
+  "images": [
+   {
+    "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_4b33afeb4b8742f99eaf1427cc142953_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+    "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_4b33afeb4b8742f99eaf1427cc142953_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_4b33afeb4b8742f99eaf1427cc142953_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+    "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_4b33afeb4b8742f99eaf1427cc142953_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+   },
+   {
+    "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_46c2a6c853ab489792383bf526574cc0_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+    "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_46c2a6c853ab489792383bf526574cc0_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_46c2a6c853ab489792383bf526574cc0_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+    "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_46c2a6c853ab489792383bf526574cc0_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+   },
+   {
+    "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_c5a5028747e4411c8ddd170c4fc3d246_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+    "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_c5a5028747e4411c8ddd170c4fc3d246_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_c5a5028747e4411c8ddd170c4fc3d246_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+    "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_c5a5028747e4411c8ddd170c4fc3d246_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+   },
+   {
+    "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_fef4fd7f594d4390a33ad2d5bb3cdd49_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+    "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_fef4fd7f594d4390a33ad2d5bb3cdd49_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_fef4fd7f594d4390a33ad2d5bb3cdd49_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+    "pinkie": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/589fdf3d-acc6-4fda-a894-9d99b933cec1/CarImage_fef4fd7f594d4390a33ad2d5bb3cdd49_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_120"
+   }
+  ],
+  "videos": null,
+  "metadata": {
+   "title_tag": "پژو پارس ELX-TU5 فروشی امروز دوشنبه 5 مرداد",
+   "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, پژو, پارس, ELX-TU5, 1402,  bama, buy, sell, car, brand new, second hand, used",
+   "description": "خرید خودرو - خودرو سالم و بی رنگ، تماس 09120001122",
+   "canonical": "https://bama.ir/car/detail-8e6cm2gb-peugeot-pars-elxtu5-1402",
+   "noindex": true
+  },
+  "breadcrump": {
+   "links": [
+    {
+     "title": "باما",
+     "url": "/"
+    },
+    {
+     "title": "خودرو",
+     "url": "/car"
+    },
+    {
+     "title": "پژو",
+     "url": "/car/peugeot"
+    },
+    {
+     "title": "پارس",
+     "url": "/car/peugeot-pars"
+    },
+    {
+     "title": "ELX-TU5",
+     "url": "/car/peugeot-pars-elxtu5"
+    },
+    {
+     "title": "1402",
+     "url": "/car/peugeot-pars-elxtu5-y1402"
+    },
+    {
+     "title": "جزییات",
+     "url": null
+    }
+   ]
+  },
+  "authenticity": null,
+  "collaboration_price": null,
+  "ads_statistics": {
+   "model": 682,
+   "trim": 103
+  },
+  "publish_networks": "B2C",
+  "inspection_station_count": 0,
+  "options": null
+ }
+}

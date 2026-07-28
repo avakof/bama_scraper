@@ -1,0 +1,643 @@
+{
+ "status": true,
+ "errors": [],
+ "metadata": null,
+ "data": [
+  {
+   "title": "وضعیت در بازار ایران",
+   "icon": "iran",
+   "icon_url": "https://cdn-sth1.bama.ir/assets/icons/svg/iran.svg",
+   "items": [
+    {
+     "key": "سال های موجود",
+     "value": "1403 تا 1405",
+     "type": "String"
+    }
+   ]
+  },
+  {
+   "title": "مشخصات فنی",
+   "icon": "speed",
+   "icon_url": "https://cdn-sth1.bama.ir/assets/icons/svg/speed.svg",
+   "items": [
+    {
+     "key": "محور محرک",
+     "value": "دیفرانسیل جلو",
+     "type": "String"
+    },
+    {
+     "key": "گیربکس",
+     "value": "6 دنده دستی",
+     "type": "String"
+    },
+    {
+     "key": "پیشرانه",
+     "value": "4 سیلندر EF7P",
+     "type": "String"
+    },
+    {
+     "key": "حجم موتور",
+     "value": "1.7 لیتر",
+     "type": "String"
+    }
+   ]
+  },
+  {
+   "title": "عملکرد فنی",
+   "icon": "gear",
+   "icon_url": "https://cdn-sth1.bama.ir/assets/icons/svg/gear.svg",
+   "items": [
+    {
+     "key": "قدرت",
+     "value": "113 اسب‌بخار",
+     "type": "String"
+    },
+    {
+     "key": "گشتاور",
+     "value": "155 نیوتن‌متر",
+     "type": "String"
+    },
+    {
+     "key": "شتاب",
+     "value": "12 ثانیه",
+     "type": "String"
+    },
+    {
+     "key": "سرعت",
+     "value": "190 کیلومتر برساعت",
+     "type": "String"
+    },
+    {
+     "key": "مصرف ترکیبی",
+     "value": "6.9 لیتر در صد کیلومتر",
+     "type": "String"
+    }
+   ]
+  },
+  {
+   "title": "ابعاد و اندازه ها",
+   "icon": "dimention",
+   "icon_url": "https://cdn-sth1.bama.ir/assets/icons/svg/dimention.svg",
+   "items": [
+    {
+     "key": "نوع بدنه",
+     "value": "سدان جمع و جور",
+     "type": "String"
+    },
+    {
+     "key": "نوع شاسی",
+     "value": "یکپارچه",
+     "type": "String"
+    },
+    {
+     "key": "نسل (کد اتاق)",
+     "value": "اول",
+     "type": "String"
+    },
+    {
+     "key": "طول ",
+     "value": "4559 میلی‌متر",
+     "type": "String"
+    },
+    {
+     "key": "عرض",
+     "value": "1720 میلی‌متر",
+     "type": "String"
+    },
+    {
+     "key": "ارتفاع",
+     "value": "1460 میلی‌متر",
+     "type": "String"
+    },
+    {
+     "key": "فاصله محوری",
+     "value": "2671 میلی‌متر",
+     "type": "String"
+    },
+    {
+     "key": "وزن",
+     "value": "1258 کیلوگرم ",
+     "type": "String"
+    },
+    {
+     "key": "حجم باک",
+     "value": "60 لیتر",
+     "type": "String"
+    },
+    {
+     "key": "چرخ جلو",
+     "value": "195/60R15",
+     "type": "String"
+    },
+    {
+     "key": "چرخ عقب",
+     "value": "195/60R15",
+     "type": "String"
+    },
+    {
+     "key": "سایر ویژگی‌ها",
+     "value": "(رینگ آلومینیومی: سفارشی)",
+     "type": "String"
+    }
+   ]
+  },
+  {
+   "title": "سیستم‌‌ کمکی راننده",
+   "icon": "assist",
+   "icon_url": "https://cdn-sth1.bama.ir/assets/icons/svg/assist.svg",
+   "items": [
+    {
+     "key": "کروز کنترل",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "کروز کنترل هوشمند (ACC)",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "کنترل ایستایی در سربالایی (HSA)",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "کنترل سرعت در سرازیری (HDA)",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "کنترل کشش (TCS)",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "کنترل پایداری (ESC)",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "ضد واژگونی (ROP)",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "اتو پارک",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "حالت رانندگی",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "سایر ویژگی‌ها",
+     "value": "false",
+     "type": "Boolean"
+    }
+   ]
+  },
+  {
+   "title": "رانندگی هوشمند",
+   "icon": "sensor",
+   "icon_url": "https://cdn-sth1.bama.ir/assets/icons/svg/sensor.svg",
+   "items": [
+    {
+     "key": "سنسور پارک جلو",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "سنسور پارک عقب",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "سنسور باران",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "سنسور فشار باد تایر (TPMS)",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "سنسور پایش راننده",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "رادار نقطه کور (BSD)",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "رادار تغییرلاین (LDW)",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "رادار ماندن در لاین (LKA)",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "رادار تصادف جلو (FCW)",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "رادار تصادف عقب (RCTA)",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "رادار تابلوخوان (TSR)",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "رادار حرکت در ترافیک (TJA)",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "سایر ویژگی‌ها",
+     "value": "false",
+     "type": "Boolean"
+    }
+   ]
+  },
+  {
+   "title": "سیستم‌های ترمز",
+   "icon": "brake",
+   "icon_url": "https://cdn-sth1.bama.ir/assets/icons/svg/brake.svg",
+   "items": [
+    {
+     "key": "توزیع نیرو ترمز (EBD)",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "ترمز ضدقفل (ABS)",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "ترمز با نیروی کمکی (BA)",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "ترمز پارک برقی (EPB)",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "ترمز اضطراری هوشمند (AEB)",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "سایر ویژگی‌ ترمز",
+     "value": "false",
+     "type": "Boolean"
+    }
+   ]
+  },
+  {
+   "title": "سیستم‌ روشنایی",
+   "icon": "light",
+   "icon_url": "https://cdn-sth1.bama.ir/assets/icons/svg/light.svg",
+   "items": [
+    {
+     "key": "دی‌لایت",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "اتولایت",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "نوربالا اتومات",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "ارتفاع نور اتومات",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "چراغ مه‌شکن جلو",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "چراغ مه‌شکن عقب",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "چراغ چرخشی",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "چراغ شور",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "چراغ جلو",
+     "value": "هالوژن با نئون",
+     "type": "String"
+    },
+    {
+     "key": "سایر ویژگی‌ روشنایی",
+     "value": "چراغ بدرقه - نورپردازی داخلی",
+     "type": "String"
+    }
+   ]
+  },
+  {
+   "title": "فرمان",
+   "icon": "steering",
+   "icon_url": "https://cdn-sth1.bama.ir/assets/icons/svg/steering.svg",
+   "items": [
+    {
+     "key": "نیروی کمکی",
+     "value": "برقی",
+     "type": "String"
+    },
+    {
+     "key": "دکمه‌های کنترلی",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "حساس به سرعت",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "پدل شیفتر",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "گرمکن فرمان",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "سایر ویژگی‌ فرمان",
+     "value": "فرمان دی‌کات",
+     "type": "String"
+    }
+   ]
+  },
+  {
+   "title": "مالتی مدیا",
+   "icon": "play",
+   "icon_url": "https://cdn-sth1.bama.ir/assets/icons/svg/play.svg",
+   "items": [
+    {
+     "key": "سیستم صوتی",
+     "value": "6 اسپیکر - هندزفری",
+     "type": "String"
+    },
+    {
+     "key": "مانیتور",
+     "value": "7 اینچی لمسی",
+     "type": "String"
+    },
+    {
+     "key": "نویگیشن",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "هدآپ",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "دوربین عقب",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "دوربین جانبی",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "دوربین 360",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "دوربین شب",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "قابلیت پشتیبانی",
+     "value": "Bluetooth - USB - MirrorLink",
+     "type": "String"
+    },
+    {
+     "key": "سایر ویژگی‌ مالتی مدیا",
+     "value": "نشانگر تعویض دنده (GSI)",
+     "type": "String"
+    }
+   ]
+  },
+  {
+   "title": "ایمنی کابین",
+   "icon": "seat",
+   "icon_url": "https://cdn-sth1.bama.ir/assets/icons/svg/seat.svg",
+   "items": [
+    {
+     "key": "مجموع ایربگ‌ها",
+     "value": "2",
+     "type": "String"
+    },
+    {
+     "key": "ایربگ راننده",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "ایربگ زانویی راننده",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "ایربگ سرنشین جلو",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "ایربگ زانویی سرنشین جلو",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "ایربگ پرده‌ای",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "ایربگ جانبی جلو",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "ایربگ جانبی عقب",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "پشت‌سری فعال",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "سایر ویژگی‌ ایمنی",
+     "value": "false",
+     "type": "Boolean"
+    }
+   ]
+  },
+  {
+   "title": "رفاهی کابین",
+   "icon": "coffee",
+   "icon_url": "https://cdn-sth1.bama.ir/assets/icons/svg/coffee.svg",
+   "items": [
+    {
+     "key": "ورود بدون کلید",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "استارت دکمه‌ای",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "سیستم تهویه",
+     "value": "اتومات - دریچه تهویه عقب",
+     "type": "String"
+    },
+    {
+     "key": "کول باکس",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "صندلی‌ راننده",
+     "value": "8 حالته برقی",
+     "type": "String"
+    },
+    {
+     "key": "صندلی سرنشین جلو",
+     "value": "8 حالته برقی",
+     "type": "String"
+    },
+    {
+     "key": "ویژگی صندلی عقب",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "گرمکن صندلی ",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "سردکن صندلی",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "ماساژور صندلی",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "روکش صندلی",
+     "value": "پارچه مخملی",
+     "type": "String"
+    },
+    {
+     "key": "ایزوفیکس صندلی",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "خروجی 12 ولت",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "صندوق برقی با جک",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "صندوق پران اتومات",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "سایر ویژگی‌ کابین",
+     "value": "false",
+     "type": "Boolean"
+    }
+   ]
+  },
+  {
+   "title": "آینه، شیشه‌ و اتاق",
+   "icon": "mirror",
+   "icon_url": "https://cdn-sth1.bama.ir/assets/icons/svg/mirror.svg",
+   "items": [
+    {
+     "key": "آینه عقب الکتروکرومیک",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "آینه جانبی تاشو برقی ",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "آینه جانبی با تنظیم برقی",
+     "value": "true",
+     "type": "Boolean"
+    },
+    {
+     "key": "سقف پانوراما",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "سانروف",
+     "value": "false",
+     "type": "Boolean"
+    },
+    {
+     "key": "سایر ویژگی‌ ظاهری",
+     "value": "false",
+     "type": "Boolean"
+    }
+   ]
+  }
+ ]
+}

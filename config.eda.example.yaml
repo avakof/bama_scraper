@@ -1,0 +1,62 @@
+# Example EDA configuration.
+#
+# Copy to config.eda.yaml and pass with --config. Credentials are NEVER read from
+# this file: the database URL comes from BAMA_EDA_DATABASE_URL, BAMA_DATABASE_URL,
+# BAMA_MONITOR_DATABASE_URL or --database-url, in that order.
+
+run_id: latest-valid          # or a numeric monitoring run id
+output_dir: reports/eda
+
+# Excluded by default. A listing already on the market when observation began has
+# an unknown earlier life, so its observed duration is a lower bound; ranking it
+# against a fully observed listing flatters the long-standing one.
+include_left_truncated: false
+
+html: true
+export_csv: true
+export_parquet: true
+
+# Fixed so a rerun reproduces the same samples and jitter.
+random_seed: 20260728
+
+thresholds:
+  # Below this a group is exported but labelled `insufficient_sample` rather than
+  # presented as a market segment.
+  min_group_size: 10
+
+  # A survival curve needs both enough subjects and enough actual events. Forty
+  # subjects with two events is a straight line with a confidence band wider than
+  # the plot.
+  min_survival_group_size: 30
+  min_survival_events: 10
+
+  # A detail snapshot older than this is flagged stale: its price may no longer
+  # describe what the search showed on the analysis run.
+  snapshot_stale_hours: 72.0
+
+  # |rho| below this is reported but not narrated.
+  weak_correlation: 0.2
+
+  # Decided human labels required before a calibrated sale rate may be quoted.
+  min_calibration_labels: 40
+
+  min_correlation_pairs: 30
+
+# Optional attribute join from the deep scraper database.
+#
+# Why it exists: the monitoring schema stores vehicle attributes in
+# advertisement_snapshots, written only when a detail page is actually scraped.
+# Detail scraping is rate-limited, so on a young installation coverage is a few
+# percent and questions about brand, condition or seller type cannot be answered
+# from the monitoring database alone.
+#
+# Why it is off by default: joining a second database silently would destroy
+# auditability. When enabled, every enriched column, its coverage and the temporal
+# rule applied are recorded in eda_manifest.json.
+enrichment:
+  enabled: false
+  database_path: deep_scraper/data/bama_deep.sqlite
+  table: ad_deep
+  join_left: platform_ad_id
+  join_right: ad_id
+  timestamp_column: scraped_at

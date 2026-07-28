@@ -1,0 +1,27 @@
+-- Remove the legacy blanket slot constraint.
+--
+-- Migration 001 declared `UNIQUE (scheduled_for, configuration_hash)` on every
+-- run. That was right when every run was a scheduled run, and wrong as soon as
+-- manual, test and simulation runs existed: a run executed by hand and attributed
+-- to today's slot physically prevented the day's genuine scheduled execution from
+-- ever being created.
+--
+-- This is not hypothetical. On first start the scheduler tried to create a
+-- catch-up run for the 13:00 slot and failed with
+--
+--     UNIQUE constraint failed: monitoring_runs.scheduled_for,
+--                               monitoring_runs.configuration_hash
+--
+-- because a manual run from that morning still occupied the row.
+--
+-- Migration 003 added `uq_production_slot`, a PARTIAL unique index covering only
+-- genuine production triggers — one scheduled or catch-up run per slot, while
+-- manual and test runs are free to carry whatever attribution they were given.
+-- That is the constraint that should hold. This migration removes the old one so
+-- that it can.
+--
+-- PostgreSQL drops the constraint directly. SQLite cannot DROP CONSTRAINT at all,
+-- so the token expands to a full table rebuild that preserves every column, every
+-- row and every other index.
+
+{{DROP_LEGACY_RUN_SLOT_CONSTRAINT}};

@@ -1,0 +1,32 @@
+# Nightly dump of the monitoring history.
+#
+# Runs after the daily monitoring window, not before: a backup taken at 12:55
+# would omit the run that is about to happen, so the freshest observation would be
+# the one least protected.
+[Unit]
+Description=Backup the Bama monitoring database
+Documentation=file:/opt/bama-monitor/README_MONITOR.md
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=bama
+WorkingDirectory=/opt/bama-monitor
+EnvironmentFile=/etc/bama-monitor/monitor.env
+ExecStart=/opt/bama-monitor/deploy/backup.sh dump
+# Weekly, verify by actually restoring. A dump nobody has restored is a hypothesis.
+ExecStartPost=/bin/sh -c '[ "$(date +%%u)" = 7 ] && /opt/bama-monitor/deploy/backup.sh drill || true'
+TimeoutStartSec=1h
+Restart=no
+
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/backups/bama-monitor
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,43 @@
+# Deep scraper configuration.
+# Copy to config.yaml and pass with:
+#   python deep_scraper/run_deep.py run --config deep_scraper/config.yaml
+# Every key can also be given as a CLI flag, which takes precedence.
+
+# --- inputs / outputs -------------------------------------------------------
+# The existing scraper's database, opened READ-ONLY as the seed inventory.
+source_db: "output/bama_ads.sqlite"
+output_dir: "deep_scraper/data"
+
+# --- request discipline -----------------------------------------------------
+concurrency: 2          # deliberately low; shared across all four phases
+delay_min: 0.4          # random per-request delay, seconds
+delay_max: 1.2
+max_retries: 4
+request_timeout: 45.0
+recycle_context_every: 200   # retire the HTTP client every N requests
+
+# --- bounds -----------------------------------------------------------------
+max_runtime: 10800.0    # seconds per phase
+max_requests: 8000      # hard ceiling; retries cannot exceed it
+
+# --- what to run ------------------------------------------------------------
+phases: "a,b,c,d"       # a=ads  b=specs  c=prices  d=dealers
+skip_api: false         # phase A: skip the JSON API (halves the budget)
+skip_html: false        # phase A: skip the HTML page
+refresh: false          # re-fetch rows already completed (walks a fixed snapshot)
+retry_delisted: false   # re-check advertisements previously found gone
+download_images: false  # URLs are always stored; this fetches the bytes
+dry_run: false          # print the request budget and issue nothing
+
+# --- audit ------------------------------------------------------------------
+# The audit fails if more than this share of live ads have a critical conflict
+# (a disagreement on code / price / mileage / year / trim / review key).
+max_critical_conflict_rate: 0.01
+
+# --- export -----------------------------------------------------------------
+# Dealer addresses are business premises. Set true to omit the column entirely.
+no_dealer_address: false
+
+# --- logging ----------------------------------------------------------------
+log_level: "INFO"
+json_logs: false

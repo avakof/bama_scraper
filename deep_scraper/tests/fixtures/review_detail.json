@@ -1,0 +1,80 @@
+{
+ "status": true,
+ "errors": [],
+ "metadata": null,
+ "data": {
+  "research_id": 2620,
+  "model_id": 1705,
+  "description": "تولید دنا پلاس، از سال 1396 در شرکت ایران خودرو آغاز شد. این محصول، حدود شش سال با موتور EF7 و گیربکس 5 دنده عرضه شد اما در سال 1403 و به منظور رعایت استانداردهای ایمنی 85گانه، شرکت ایران خودرو نیز نسخه بهبودیافته آنرا با موتور جدید EF7P به همراه گیربکس 6 دنده جدید، به بازار کشورمان آورد. \r\nپیشرانه جدید EF7P در نسخه تنفس طبیعی، دور آرام کمتری نسبت به قبل دارد اما در نسخه توربوشارژ، به توان و گشتاور خروجی آن نیز افزوده شده است. از مزایای گیربکس 6 دنده جدید نیز می‌توان به کاهش مصرف سوخت به خصوص در سرعت بالا (به دلیل کاهش دور موتور)، بهبود کیفیت سواری، حس رانندگی بهتر (باتوجه به توزیع مناسب‌تر دنده ها)، کاهش فشار روی موتور در سرعت های بالا و در نتیجه افزایش عمر پیشرانه اشاره کرد.\r\nعلاوه بر بهبود عملکرد فنی خودرو، در دناپلاس EF7P شاهد امکانات جدیدی هستیم که قبلا در مدل‌های EF7 معمولی وجود نداشت. مهم‌ترین این امکانات را می‌توان در این موارد خلاصه کرد: (1) ترمز کمکی (2) کنترل پایداری (3) کنترل کشش (4) کمکی حرکت در سربالایی (5) سنسور باد تایر (6) سنسور نور یا اتولایت (7) سنسور باران (8) نشانگر تعویض دنده (9) فرمان برقی (10) فرمان دی‌کات",
+  "ad_link": "/car/dena-plusef7p-6mt",
+  "total_ad_count": 170,
+  "comments_count": 191,
+  "stats": {
+   "pros_list": [
+    "بهبود عملکرد موتور",
+    "بهبود مصرف سوخت",
+    "گیربکس جدید 6 سرعته",
+    "اضافه‌شدن آپشن‌های ایمنی"
+   ],
+   "cons_list": [
+    "عایق بندی کابین",
+    "عدم بهبود کیفی نسبت به مدل EF7"
+   ],
+   "rating": 2.8,
+   "final_score": 5.6,
+   "after_sales_percent": 5,
+   "body_design_percent": 5,
+   "efficiency_percent": 7.5,
+   "capabilities_percent": 5.5,
+   "interior_design_percent": 5
+  },
+  "year": 1403,
+  "to_year": 1405,
+  "generation_id": 1481,
+  "generation_title": null,
+  "face_lift_id": 0,
+  "images": [
+   {
+    "image_url_mobile": "https://cdn-sth1.bama.ir/uploads/BamaImages/Research/db9145ee-524d-4e58-bd0b-fbadd42bbb35/research_638634771751929262.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "image_url_desktop": "https://cdn-sth1.bama.ir/uploads/BamaImages/Research/db9145ee-524d-4e58-bd0b-fbadd42bbb35/research_638634771751929262.jpg?x-img=v1/format,type_webp/autorotate/resize,w_640"
+   },
+   {
+    "image_url_mobile": "https://cdn-sth1.bama.ir/uploads/BamaImages/Research/db9145ee-524d-4e58-bd0b-fbadd42bbb35/research_638634771948775200.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "image_url_desktop": "https://cdn-sth1.bama.ir/uploads/BamaImages/Research/db9145ee-524d-4e58-bd0b-fbadd42bbb35/research_638634771948775200.jpg?x-img=v1/format,type_webp/autorotate/resize,w_640"
+   },
+   {
+    "image_url_mobile": "https://cdn-sth1.bama.ir/uploads/BamaImages/Research/db9145ee-524d-4e58-bd0b-fbadd42bbb35/research_638634772322236664.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "image_url_desktop": "https://cdn-sth1.bama.ir/uploads/BamaImages/Research/db9145ee-524d-4e58-bd0b-fbadd42bbb35/research_638634772322236664.jpg?x-img=v1/format,type_webp/autorotate/resize,w_640"
+   },
+   {
+    "image_url_mobile": "https://cdn-sth1.bama.ir/uploads/BamaImages/Research/db9145ee-524d-4e58-bd0b-fbadd42bbb35/research_638634772351674485.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "image_url_desktop": "https://cdn-sth1.bama.ir/uploads/BamaImages/Research/db9145ee-524d-4e58-bd0b-fbadd42bbb35/research_638634772351674485.jpg?x-img=v1/format,type_webp/autorotate/resize,w_640"
+   }
+  ],
+  "icon": "https://cdn-sth1.bama.ir/assets/filter/car-brand-logo/dena",
+  "brand_name": "dena",
+  "brand_name_fa": "دنا",
+  "model_name": "plusef7p",
+  "model_name_fa": "پلاس EF7P",
+  "trim_name": "6mt",
+  "trim_name_fa": "6 دنده",
+  "vehicle_full_name": "دنا پلاس EF7P",
+  "price_url": "/price/dena_plusef7p_6mt",
+  "trims": [
+   {
+    "url": "/car-reviews/dena/plusef7p-specs-1481-6mt",
+    "trim": "6mt",
+    "trim_fa": "6 دنده"
+   }
+  ],
+  "years": [
+   {
+    "id": 2620,
+    "year": "1403-1405",
+    "url": "/car-reviews/dena/plusef7p-specs-1481-6mt"
+   }
+  ],
+  "videos": null,
+  "comparison_code": "1481-6mt"
+ }
+}

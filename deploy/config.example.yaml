@@ -1,0 +1,50 @@
+# Monitoring configuration. Copy to /etc/bama-monitor/config.yaml.
+# Credentials are NOT here -- database_url comes from BAMA_MONITOR_DATABASE_URL.
+
+search_url: "https://bama.ir/car?year=1397-2018,&price=1000000000&body=passenger_car&country=iranian"
+
+# The schedule contract: 13:00 local wall-clock time in this zone, year round.
+timezone: "Europe/Paris"
+run_at: "13:00"
+
+# Consecutive missed VALID runs before removal is inferred. One miss is only
+# ever `missing_once` -- never a removal, never a sale.
+removal_confirmation_misses: 2
+persistent_absence_days: 7
+
+health:
+  # Reject a run whose count is below 30% of the recent median (i.e. a 70% drop).
+  min_count_ratio_vs_median: 0.30
+  median_window_runs: 7
+  min_absolute_count: 50
+  max_failed_page_ratio: 0.20
+  max_empty_title_ratio: 0.20
+  # Refuse to mark more than half the known inventory missing in one run.
+  max_missing_ratio: 0.50
+  require_verified_termination: true
+  require_stabilization: true
+
+detail:
+  concurrency: 2
+  active_refresh_days_min: 3
+  active_refresh_days_max: 7
+  qc_sample_ratio: 0.01
+  max_details_per_run: 600
+  delay_min: 0.4
+  delay_max: 1.2
+
+repost:
+  enabled: true
+  lookback_days: 45
+  mileage_tolerance_km: 5000
+  price_tolerance_ratio: 0.12
+  match_threshold: 0.70
+
+alerts:
+  enabled: true
+  min_severity: "warning"
+
+output_dir: "/data/monitor_data"
+reports_dir: "/data/reports"
+lock_dir: "/data/monitor_data/locks"
+log_level: "INFO"

@@ -1,0 +1,29 @@
+# Fires the monitoring run at 13:00 Europe/Paris every day.
+#
+# Timezone= makes systemd interpret OnCalendar in that zone, so the run happens at
+# 13:00 local wall-clock time year round -- 11:00 UTC in summer, 12:00 UTC in
+# winter. Expressing this as a UTC schedule would silently drift by an hour at
+# each daylight-saving transition.
+#
+# Verify with:  systemd-analyze calendar --iterations=5 --timezone=Europe/Paris '*-*-* 13:00:00'
+
+[Unit]
+Description=Daily Bama listing monitor at 13:00 Europe/Paris
+Documentation=file:/opt/bama-monitor/README_MONITOR.md
+
+[Timer]
+OnCalendar=*-*-* 13:00:00
+Timezone=Europe/Paris
+
+# Run as soon as possible if the machine was off at 13:00, so a powered-down host
+# does not silently create a gap in the daily history.
+Persistent=true
+
+# Small jitter to avoid hitting the site at exactly the same second every day.
+RandomizedDelaySec=120
+AccuracySec=30s
+
+Unit=bama-monitor.service
+
+[Install]
+WantedBy=timers.target

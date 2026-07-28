@@ -1,0 +1,67 @@
+[project]
+name = "bama-scraper"
+version = "1.0.0"
+description = "Production-quality scraper for Bama.ir filtered car search results and detail pages"
+requires-python = ">=3.11"
+dependencies = [
+    "playwright>=1.40",
+    "httpx>=0.27",
+    "selectolax>=0.3.21",
+    "beautifulsoup4>=4.12",
+    "pydantic>=2.6",
+    "tenacity>=8.2",
+    "pandas>=2.2",
+    "pyarrow>=15.0",
+    "pyyaml>=6.0",
+    "structlog>=24.1",
+    "jdatetime>=5.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "pytest-asyncio>=0.23", "ruff>=0.4", "mypy>=1.9"]
+# Analysis-only dependencies. Kept out of the base install so collection can run
+# on a machine that never plots anything.
+eda = ["matplotlib>=3.8", "scipy>=1.11"]
+
+[project.scripts]
+bama-scraper = "bama_scraper.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "C4"]
+ignore = ["E501", "B008"]
+
+[tool.mypy]
+# Match the interpreter this project actually runs on. Declaring an older
+# version made mypy reject 3.12+ syntax inside third-party stubs it parses.
+python_version = "3.14"
+ignore_missing_imports = true
+warn_unused_ignores = false
+disallow_untyped_defs = false
+namespace_packages = true
+mypy_path = "src"
+
+# numpy/scipy/matplotlib ship stubs written for a newer Python than this project
+# targets; their internals are not what we are type-checking.
+[[tool.mypy.overrides]]
+module = ["numpy.*", "scipy.*", "matplotlib.*", "pandas.*"]
+follow_imports = "skip"
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+pythonpath = ["tests_monitor", "tests/bama_eda"]
+testpaths = ["tests", "deep_scraper/tests", "tests_monitor"]
+# `tests/bama_eda` is inside `tests`, so it is collected by the line above.
+asyncio_mode = "auto"
+filterwarnings = ["ignore::DeprecationWarning"]

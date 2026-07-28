@@ -1,0 +1,69 @@
+# systemd service for one monitoring run.
+#
+# Type=oneshot: the unit runs, exits and reports. Overlap is prevented at three
+# levels -- systemd's own single-instance semantics for a oneshot unit, plus the
+# database lock row and the filesystem flock the application acquires. Two
+# concurrent runs would both increment consecutive_misses for the same listings,
+# so belt and braces is deliberate here.
+
+[Unit]
+Description=Bama listing monitor - daily run
+Documentation=file:/opt/bama-monitor/README_MONITOR.md
+After=network-online.target postgresql.service
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=bama
+Group=bama
+WorkingDirectory=/opt/bama-monitor
+
+# Credentials come from an environment file that is NOT in version control.
+# Expected keys: BAMA_MONITOR_DATABASE_URL, optionally
+# BAMA_MONITOR_WEBHOOK_URL / BAMA_MONITOR_SMTP_URL / BAMA_MONITOR_ALERT_EMAIL.
+EnvironmentFile=/etc/bama-monitor/monitor.env
+Environment=PYTHONUNBUFFERED=1
+# The application computes its own slot in Europe/Paris; this makes any log
+# timestamps written by the process agree with the schedule.
+Environment=TZ=Europe/Paris
+
+ExecStart=/opt/bama-monitor/.venv/bin/python -m bama_monitor run-daily \
+    --config /etc/bama-monitor/config.yaml
+
+# A run can legitimately take a while (≈2,900 listings at 2 requests each with
+# polite delays). The timeout is a backstop, above the application's own
+# max_run_seconds so the app gets to shut down cleanly and record its state first.
+TimeoutStartSec=4h
+
+# Do not restart automatically: a failed run is recorded in the database and
+# alerted on, and the next timer firing is the retry. Restarting immediately
+# would hammer the site after a block.
+Restart=no
+
+# Resource hygiene
+Nice=10
+IOSchedulingClass=best-effort
+IOSchedulingPriority=6
+
+# Hardening
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/opt/bama-monitor/monitor_data /opt/bama-monitor/reports
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+RestrictSUIDSGID=true
+LockPersonality=true
+MemoryDenyWriteExecute=false
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+SystemCallFilter=@system-service
+SystemCallErrorNumber=EPERM
+
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=bama-monitor
+
+[Install]
+WantedBy=multi-user.target

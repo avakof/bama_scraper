@@ -1,0 +1,173 @@
+{
+ "status": true,
+ "errors": [],
+ "metadata": null,
+ "data": {
+  "detail": {
+   "type": "car",
+   "code": "bgs03up7",
+   "url": "/car/detail-bgs03up7-peugeot-pars-xu7p-1401",
+   "title": "پژو، پارس",
+   "subtitle": "1401 | XU7P",
+   "trim": "XU7P",
+   "time": "5 ساعت پیش",
+   "year": "1401",
+   "location": "سیرجان",
+   "mileage": "66,000 km",
+   "transmission": "دنده ای",
+   "fuel": "برقی",
+   "color": "مشکی / داخل مشکی",
+   "body_color": "مشکی",
+   "inside_color": "مشکی",
+   "body_status": "بدون رنگ",
+   "description": "ماشین خط خش دارد گاز سیمی هسته",
+   "authenticated": false,
+   "body_type": "passenger_car",
+   "image_count": 4,
+   "ad_class_i_d": 24,
+   "has_related": true,
+   "province": "کرمان",
+   "badge": true,
+   "brand_icon": "https://cdn-sth1.bama.ir/assets/filter/car-brand-logo/peugeot",
+   "brand": "peugeot",
+   "model": "pars",
+   "trim_en": "xu7p",
+   "is_bookmarked": false,
+   "pre_sale_delivery": null,
+   "is_pre_sale": false,
+   "life_styles": [
+    {
+     "value": "Family",
+     "display_name": "خانواده"
+    },
+    {
+     "value": "MarketFavorite",
+     "display_name": "محبوب بازار"
+    },
+    {
+     "value": "Work",
+     "display_name": "کاري"
+    }
+   ],
+   "body": {
+    "value": "passenger_car",
+    "display_name": "سدان"
+   }
+  },
+  "icon": {
+   "mileage": "https://cdn-sth1.bama.ir/assets/icons/svg/speed.svg",
+   "fuel": "https://cdn-sth1.bama.ir/assets/icons/svg/fuel.svg",
+   "transmission": "https://cdn-sth1.bama.ir/assets/icons/svg/gearbox.svg",
+   "color": "https://cdn-sth1.bama.ir/assets/icons/svg/brush.svg",
+   "inside_color": "https://cdn-sth1.bama.ir/assets/icons/svg/seat.svg",
+   "body_status": "https://cdn-sth1.bama.ir/assets/icons/svg/car_body.svg",
+   "volume": "https://cdn-sth1.bama.ir/assets/icons/svg/cylinder-outlined-bold.svg",
+   "engine": "https://cdn-sth1.bama.ir/assets/icons/svg/engine-outlined-bold.svg",
+   "acceleration": "https://cdn-sth1.bama.ir/assets/icons/svg/stopWatch-outlined-bold.svg",
+   "combined_consumption": "https://cdn-sth1.bama.ir/assets/icons/svg/fuelGauge-outlined-bold.svg",
+   "power": "https://cdn-sth1.bama.ir/assets/icons/svg/horsepower-outlined-bold.svg",
+   "drive_shaft": "https://cdn-sth1.bama.ir/assets/icons/svg/drive%20shaft-outlined-bold.svg",
+   "torque": "https://cdn-sth1.bama.ir/assets/icons/svg/torque-outlined-bold.svg"
+  },
+  "specs": {
+   "volume": null,
+   "engine": "4 سیلندر XU7 پلاس",
+   "acceleration": "12 ثانیه",
+   "fuel": null,
+   "drive_shaft": "دیفرانسیل جلو",
+   "body_type": "سدان جمع و جور",
+   "power": "97 اسب‌بخار",
+   "torque": "146 نیوتن‌متر",
+   "battery_capacity": "50 کیلووات ساعت",
+   "all_electric_range": "400 کیلومتر",
+   "url_price": null,
+   "url_review": "/car-reviews/peugeot/pars-specs-1463-471-xu7p"
+  },
+  "dealer": null,
+  "price": {
+   "type": "lumpsum",
+   "price": "1,585,000,000",
+   "prepayment_primary": "0",
+   "prepayment_secondary": "0",
+   "payment_primary": "0",
+   "month_number": 0,
+   "installments": 0,
+   "delivery_days": 0
+  },
+  "images": [
+   {
+    "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010359_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+    "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010359_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010359_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+    "original": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010359.jpg"
+   },
+   {
+    "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010418_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+    "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010418_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010418_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+    "original": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010418.jpg"
+   },
+   {
+    "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010618_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+    "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010618_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010618_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+    "original": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010618.jpg"
+   },
+   {
+    "large": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010633_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_600",
+    "small": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010633_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_450",
+    "thumb": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010633_thumb_900_600.jpg?x-img=v1/format,type_webp/autorotate/resize,w_240",
+    "original": "https://cdn-sth1.bama.ir/uploads/BamaImages/VehicleCarImages/688bbdaf-33c1-4ad2-b1af-c59ad4a77c28/CarImage_639206089460010633.jpg"
+   }
+  ],
+  "videos": null,
+  "options": null,
+  "metadata": {
+   "title_tag": "پژو پارس XU7P فروشی - 1405/5/5",
+   "keywords": "باما, مرجع خرید, خرید خودرو, فروش خودرو, اقساطی, ماشین, اتومبیل, ايران, پژو, پارس, XU7P, 1401,  bama, buy, sell, car, brand new, second hand, used",
+   "description": "خرید خودرو پژو پارس XU7P تولید 1401 در شهر سیرجان، ماشین خط خش دارد گاز سیمی هسته",
+   "canonical": "https://bama.ir/car/detail-bgs03up7-peugeot-pars-xu7p-1401",
+   "noindex": true
+  },
+  "breadcrump": {
+   "links": [
+    {
+     "title": "باما",
+     "url": "/"
+    },
+    {
+     "title": "خودرو",
+     "url": "/car"
+    },
+    {
+     "title": "پژو",
+     "url": "/car/peugeot"
+    },
+    {
+     "title": "پارس",
+     "url": "/car/peugeot-pars"
+    },
+    {
+     "title": "XU7P",
+     "url": "/car/peugeot-pars-xu7p"
+    },
+    {
+     "title": "1401",
+     "url": "/car/peugeot-pars-xu7p-y1401"
+    },
+    {
+     "title": "جزییات",
+     "url": null
+    }
+   ]
+  },
+  "authenticity": null,
+  "inspection_station_count": 0,
+  "ads_statistics": {
+   "model": 682,
+   "trim": 103
+  },
+  "collaboration_price": null,
+  "publish_networks": "B2C"
+ }
+}

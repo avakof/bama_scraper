@@ -1,0 +1,16 @@
+{
+ "status": true,
+ "errors": [],
+ "metadata": null,
+ "data": {
+  "title": "اتو گالری نعمتی",
+  "type": "نمایشگاه",
+  "banner": "Corporations/corporationbanner_638014330800765965.jpg",
+  "logo": "Corporations/corporation_636795206844724851.jpg",
+  "address": "کرج، بلوار دانش آموز، روبروی پمپ بنزین جنب بانک سپه ",
+  "latitude": "35.815041",
+  "longitude": "50.966807",
+  "is_active": true,
+  "vehicle_type": "car"
+ }
+}
