@@ -59,4 +59,3 @@ deploy/macos/monitor.env
 deploy/macos/*.rendered.sh
 
 # Scratch
-.claude/
